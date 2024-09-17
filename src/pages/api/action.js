@@ -8,7 +8,7 @@ function getCdnLink(link, filename) {
   const key = "=^eGzr{8a6xjVQ{";
   const payload = {
     url: link,
-    filename: "SnaptikNotes_" + filename,
+    filename: "SnaptikNotes_app_" + filename,
   };
   const token = jwt.sign(payload, key, { algorithm: "HS256" });
 
