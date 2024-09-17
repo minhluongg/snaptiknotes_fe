@@ -54,18 +54,18 @@ const Footer = () => {
                 </li>
               </ul>
             </div>
-            <div>
+            {/* <div>
               <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">
                 More Apps
               </h2>
               <ul className="font-medium text-gray-500">
                 <li className="mb-4">
-                  <a href="https://snapsave.app/" className="hover:underline">
-                    Download video Facebook
+                  <a href="" className="hover:underline">
+                    
                   </a>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
           <div className="px-4 py-6 mb-4 rounded-lg shadow">
             <span className="block text-sm text-center text-gray-500">
