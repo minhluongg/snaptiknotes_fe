@@ -2,6 +2,7 @@
 // Album video: https://www.threads.net/@britishbeekeepers/post/C-5kJiZoQQP?xmt=AQGz7hDI2axtC4fY16bWOgI9bOqnC9jmStkg0Uz-_YVyAA
 import jwt from "jsonwebtoken";
 import axios from "axios";
+import fetch from "node-fetch";
 
 function getCdnLink(link, filename) {
   const key = "=^eGzr{8a6xjVQ{";
@@ -25,78 +26,45 @@ function getFileName(url) {
   }
 }
 
-function handleGraphImage(item) {
-  // let maxImage = item.items.reduce((max, image) => {
-  //   if (image.width && image.height) {
-  //     if (image.width * image.height > max.width * max.height) {
-  //       return image;
-  //     }
-  //   }
-  //   return max;
-  // });
-  // const urlCdn = getCdnLink(maxImage.url, getFileName(maxImage.url));
-  // maxImage.url = urlCdn;
-  // return { id: item.id, ...newItem };
-  let firstImage = item.items[0]; // Get the first element
-  const urlCdn = getCdnLink(firstImage.url, getFileName(firstImage.url));
-  firstImage.url = urlCdn;
-  return { id: item.id, ...firstImage };
+function getPhotoId(url) {
+  const regex = /photo\/(\d+)/;
+  const match = url.match(regex);
+  return match ? match[1] : null;
 }
 
-function handleGraphVideo(item) {
-  const display_url_cdn = getCdnLink(
-    item.display_url,
-    getFileName(item.display_url)
-  );
-  const video_url_cdn = getCdnLink(item.video_url, getFileName(item.video_url));
-  return {
-    id: item.id,
-    __type: item.__type,
-    display_url: item.display_url,
-    display_url: display_url_cdn,
-    video_url: video_url_cdn,
-    video_duration: item.video_duration,
-  };
+function getItems(data) {
+  const jpegUrls = [];
+
+  data.forEach((item) => {
+    const thumbnailUrls = item.thumbnail.url_list;
+    const imgCdn = getCdnLink(thumbnailUrls[1], getFileName(thumbnailUrls[1]));
+    // console.log(thumbnailUrls[1]);
+    jpegUrls.push(imgCdn);
+    // thumbnailUrls.forEach((url) => {
+    //   if (url.endsWith(".jpeg")) {
+    //     jpegUrls.push(url);
+    //   }
+    // });
+  });
+
+  return jpegUrls;
 }
 
 function handleData(data) {
   // Extract postinfo from the owner property
-  const avatarCdn = getCdnLink(
-    data.owner.avatar_url,
-    "avatar_" + data.owner.id
-  );
-  const postinfo = {
-    id: data.owner.id,
-    username: data.owner.username,
-    avatar_url: avatarCdn,
-    media_title: data.title,
-    __type: data.__type,
-  };
-  let items = [];
-
-  if (data.__type === "GraphSidecar") {
-    items = data.items.map((item) => {
-      if (item.__type === "GraphVideo") {
-        return handleGraphVideo(item);
-      }
-      if (item.__type === "GraphImage") {
-        const newImgItem = handleGraphImage(item);
-        return newImgItem;
-      }
-    });
-  }
-  if (data.__type === "GraphVideo") {
-    const newVideoItem = handleGraphVideo(data);
-    items.push(newVideoItem);
-  }
-  if (data.__type === "GraphImage") {
-    const newImgItem = handleGraphImage(data);
-    items.push({
-      __type: data.__type,
-      ...newImgItem,
-    });
-  }
-
+  // const avatarCdn = getCdnLink(
+  //   data.owner.avatar_url,
+  //   "avatar_" + data.owner.id
+  // );
+  // const postinfo = {
+  //   id: "data.owner.id",
+  //   username: "data.owner.username",
+  //   avatar_url: "avatarCdn",
+  //   media_title: "data.title",
+  //   __type: "data.__type",
+  // };
+  const postinfo = {};
+  let items = getItems(data["aweme_detail"]["image_post_info"]["images"]);
   return { postinfo, items, status_code: 0 };
 }
 
@@ -112,15 +80,37 @@ export default async function handler(req, res) {
       url = url[0];
     }
 
+    const isFinalLink = url.includes("photo");
+    if (!isFinalLink) {
+      const redirectResponse = await axios.head(url, {
+        maxRedirects: 0, // Không tự động theo dõi redirect
+        validateStatus: (status) => status >= 300 && status < 400, // Chỉ chấp nhận các mã phản hồi trong khoảng redirect
+      });
+
+      // Lấy link redirect từ header 'location'
+      const redirectUrl = redirectResponse.headers.location;
+
+      if (redirectUrl) {
+        url = redirectUrl; // Cập nhật URL để tiếp tục xử lý với link mới
+      } else {
+        return res.status(400).json({ error: "No redirect found" });
+      }
+    }
+
+    if (!url.includes("photo")) {
+      return res.status(400).json({ error: "Không lấy được ID Video" });
+    }
+
+    const awemeId = getPhotoId(url);
     // Gửi request đến API gốc
     const response = await axios.get(
-      `http://104.248.99.47:3003/threads/v1?url=${url}`
+      `http://174.138.19.186:3008/tiktok/spark/aweme/detail?aweme_id=${awemeId}`
     );
-
     // res.status(200).json(response.data);
+    // console.log(response);
 
     if (response.data.status_code === 0) {
-      const processedData = handleData(response.data.data);
+      const processedData = handleData(response.data);
       res.status(200).json(processedData);
     } else {
       res.status(200).json(response.data);

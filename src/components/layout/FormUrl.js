@@ -15,7 +15,7 @@ import classNames from "@/hooks/classNames";
 import useGAEvent from "@/hooks/useGAEvent";
 import { gaEvent } from "@/constants/ga";
 
-const urlRegex = /^(https?:\/\/)?([a-zA-Z0-9-]+\.)+(threads\.net)(\/.*)?$/;
+// const urlRegex = /^(https?:\/\/)?([a-zA-Z0-9-]+\.)+(threads\.net)(\/.*)?$/;
 
 const FormUrl = () => {
   const [url, setUrl] = useState("");
@@ -28,8 +28,8 @@ const FormUrl = () => {
     url: yup
       .string()
       .required(t("downloader.errorinputempty"))
-      .url(t("downloader.errornoturl"))
-      .matches(urlRegex, t("downloader.errorlinkthreads")),
+      .url(t("downloader.errornoturl")),
+    // .matches(urlRegex, t("downloader.errorlinkthreads")),
   });
 
   const { formResult, setFormResult, setErrorMessage, errorMessage } =
