@@ -1,0 +1,29 @@
+{
+  "close": "Close",
+  "paste": "Paste",
+  "clear": "Clear",
+  "download": "Download",
+  "advertisement": "Advertisement",
+  "footer": {
+    "policy": "Privacy Policy",
+    "tos": "Terms of service",
+    "contact": "Contact Us",
+    "blog": "Blog"
+  },
+  "downloader": {
+    "downvid": "Download Video",
+    "server": "Download server 01",
+    "server2": "Download server 02",
+    "placeholder": "Paste Threads link here",
+    "dlanothervideo": "Download another video",
+    "getiderror": "Error: Could not get Video ID.",
+    "errorapi": "Unable to connect to Threads, please try again later",
+    "errorlinkthreads": "Invalid thread link. Please check again.",
+    "errornoturl": "Invalid URL. Please check again.",
+    "errorinputempty": "input cannot be empty, please enter the threads link into the input box above and try again"
+  },
+  "button": {
+    "ok": "Ok",
+    "cancel": "Cancel"
+  }
+}

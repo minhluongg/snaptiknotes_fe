@@ -1,0 +1,29 @@
+{
+"close": "Đóng",
+"paste": "Dán",
+"clear": "Xóa",
+"download": "Tải xuống",
+"advertisement": "Quảng cáo",
+"footer": {
+"policy": "Chính sách bảo mật",
+"tos": "Điều khoản dịch vụ",
+"contact": "Liên hệ với chúng tôi",
+"blog": "Blog"
+},
+"downloader": {
+"downvid": "Tải video xuống",
+"server": "Máy chủ tải xuống 01",
+"server2": "Máy chủ tải xuống 02",
+"placeholder": "Dán liên kết Threads tại đây",
+"dlanothervideo": "Tải xuống video khác",
+"getiderror": "Lỗi: Không thể lấy ID video.",
+"errorapi": "Không thể kết nối với Threads, vui lòng thử lại sau",
+"errorlinkthreads": "Liên kết không hợp lệ. Vui lòng kiểm tra lại.",
+"errornoturl": "URL không hợp lệ. Vui lòng kiểm tra lại.",
+"errorinputempty": "Vui lòng nhập liên kết vào ô bên trên và thử lại"
+},
+"button": {
+"ok": "Đồng ý",
+"cancel": "Hủy"
+}
+}

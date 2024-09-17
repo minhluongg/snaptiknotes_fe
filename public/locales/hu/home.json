@@ -1,0 +1,67 @@
+{
+  "title": "Threads Videó Letöltő - Gyors, Ingyenes és Korlátlan - Snapsave",
+  "description": "Töltsön le ingyenesen Threads videókat nagy felbontásban, gyors sebességgel. Mentse a videókat MP4 formátumban a legjobb Threads letöltővel.",
+  "h1": "Threads Videó Letöltő",
+  "h2": "Töltse le a Threads videókat, fotókat, GIF-eket az eszközére",
+  "howto": {
+  "title": "Hogyan lehet letölteni Threads videókat a SnapSave-vel",
+  "how1": "Másolja le a videó linkjét",
+  "how1Desc": "Másolja le a letölteni kívánt Threads videó linkjét/URL-jét a három pontos gomb megnyomásával",
+  "how2": "Illessze be a Threads letöltőbe",
+  "how2Desc": "Egyszerűen illessze be a letöltési sávba és kattintson a letöltés gombra",
+  "how3": "Letöltés",
+  "how3Desc": "Amikor a videó betöltődött a képernyőre, válassza ki a kimeneti minőséget, és folytassa a letöltés gomb újbóli megnyomásával"
+  },
+  "features": {
+  "title": "Az Ön választása: Gyors, Stabil és Ingyenes Threads Letöltő",
+  "desc": "Amikor böngészi a Threads hírfolyamot, és olyan videót talál, amit meg szeretne menteni, a SnapSave Threads videó letöltője itt van, hogy segítsen. Ez az a letöltő, amit Ön is szeretne, mert",
+  "feature1": "Töltse le a Threads videókat MP4 HD minőségben",
+  "feature1_desc": "A Threads letöltőnk támogatja a videók 480p, 720p (HD), 1080p (Full HD) minőségű letöltését. Ennél jobb minőségre is lehetősége van, de az több időt vehet igénybe.",
+  "feature2": "Gyors és stabil letöltés 3-5 másodperc alatt",
+  "feature2_desc": "A letöltő eszköz optimalizálva van a letöltési sebesség és stabilitás szempontjából. Gyorsan lekéri a videót, és probléma nélkül menti közvetlenül az eszközére.",
+  "feature3": "Korlátlan és teljesen ingyenes videó letöltés",
+  "feature3_desc": "Nincs letöltési korlátozás, tetszőleges számú videót letölthet, és az teljesen ingyenes.",
+  "feature4": "Nem szükséges fiók",
+  "feature4_desc": "A Threads tartalmak letöltése itt teljesen biztonságos. Nem szükséges fiók vagy személyes adatok megadása.",
+  "feature5": "Működik PC-n, Androidon és iOS-en is",
+  "feature5_desc": "Az eszköz gond nélkül működik bármilyen okoseszközön, beleértve az Androidot, iOS-t, Windowst, macOS-t, Linuxot és ChromeOS-t.",
+  "feature6": "Több nyelvet támogat",
+  "feature6_desc": "Több nyelvet támogatunk a világ minden tájáról érkező felhasználók számára."
+  },
+  "faqTitle": "GYIK",
+  "faqs": {
+  "faq1": {
+  "question": "Miért kellene letöltenem Threads videókat és fotókat?",
+  "answer": "Sok fiatal ember azért jön a Threads-re, hogy videók segítségével privát történeteket osszon meg bizonyos közönséggel és követőkkel. Ha letölti ezeket a videókat, egyedi és exkluzív tartalmakhoz juthat, melyeket később újranézhetsz, illetve megoszthatsz a Twitteren, Instagramon vagy a Facebookon."
+  },
+  "faq2": {
+  "question": "Közvetlenül letölthetek videót a Threads-ről?",
+  "answer": "A Threads csak a videók mentését és lejátszását támogatja a hírfolyamban, de nem teszi lehetővé a közvetlen letöltést a személyes eszközre. Ezért harmadik féltől származó Threads letöltőre van szüksége."
+  },
+  "faq3": {
+  "question": "Hogyan tölthetek le Threads videót iPhone/Android-on?",
+  "answer": [
+  "A Threads alkalmazásban kattintson a közvetlen szimbólumra a bejegyzés alatt, majd válassza a link másolása lehetőséget",
+  "Nyissa meg a Snapsave.app-et böngészőn keresztül, majd válassza a Threads letöltőt",
+  "Illessze be a linket az eszköztárba, és kattintson a letöltés gombra",
+  "Kattintson ismét a letöltés gombra, majd mentse el az eszközére"
+  ]
+  },
+  "faq4": {
+  "question": "Tudják a készítők, ha letöltöm az ő tartalmukat a Threads-ről?",
+  "answer": "Nem, nem tudják. A Threads videó letöltőnkkel anonim módon töltheted le a videókat, képeket és hanganyagokat a Threads-ről."
+  },
+  "faq5": {
+  "question": "Legális-e letölteni Threads videókat?",
+  "answer": "Igen, legális a Threads videók mentése újranézés vagy emlékek céljából. Vegye figyelembe a szerzői jogi kérdéseket, ha újra fel szeretné használni a tartalmat."
+  },
+  "faq6": {
+  "question": "Vízjelezzük a letöltött Threads videókat?",
+  "answer": "Nem, nem teszünk rájuk vízjelet. A Snapsave nem helyez el vízjelet a nálunk letöltött fotókon vagy klipeken."
+  },
+  "faq7": {
+  "question": "Mit tegyek, ha egy Threads videó letöltése meghiúsul?",
+  "answer": "Előfordulhat, hogy eszközünk túlterheltség miatt nem tudja végrehajtani a letöltést. Kérjük, próbálja újra az F5 gombbal, vagy forduljon a műszaki támogatáshoz segítségért."
+  }
+  }
+  }

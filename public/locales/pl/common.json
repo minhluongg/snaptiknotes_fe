@@ -1,0 +1,29 @@
+{
+  "close": "Zamknij",
+  "paste": "Wklej",
+  "clear": "Wyczyść",
+  "download": "Pobierz",
+  "advertisement": "Reklama",
+  "footer": {
+    "policy": "Polityka prywatności",
+    "tos": "Warunki użytkowania",
+    "contact": "Skontaktuj się z nami",
+    "blog": "Blog"
+  },
+  "downloader": {
+    "downvid": "Pobierz wideo",
+    "server": "Pobierz serwer 01",
+    "server2": "Pobierz serwer 02",
+    "placeholder": "Wklej tutaj link do Threads",
+    "dlanothervideo": "Pobierz inne wideo",
+    "getiderror": "Błąd: Nie udało się uzyskać ID wideo.",
+    "errorapi": "Nie można połączyć się z Threads, spróbuj ponownie później",
+    "errorlinkthreads": "Nieprawidłowy link do wątku. Sprawdź ponownie.",
+    "errornoturl": "Nieprawidłowy URL. Sprawdź ponownie.",
+    "errorinputempty": "Pole nie może być puste, wprowadź link do wątku w polu powyżej i spróbuj ponownie"
+  },
+  "button": {
+    "ok": "Ok",
+    "cancel": "Anuluj"
+  }
+}

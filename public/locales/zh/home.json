@@ -1,0 +1,67 @@
+{
+  "title": "Threads 视频下载器 - 快速、免费和无限下载 - SnapSave",
+  "description": "免费以高品质、高速度下载 Threads 视频。将您的视频保存到设备中,格式为 MP4,使用最好的 Threads 下载器。",
+  "h1": "Threads 视频下载器",
+  "h2": "将 Threads 上的视频、照片和 GIF 下载到您的设备",
+  "howto": {
+  "title": "如何使用 SnapSave 下载 Threads 视频",
+  "how1": "复制视频链接",
+  "how1Desc": "通过点击三点按钮复制您想要下载的 Threads 视频的链接/URL",
+  "how2": "将其粘贴到 Threads 下载器",
+  "how2Desc": "只需将其粘贴到下载栏并点击下载按钮",
+  "how3": "下载",
+  "how3Desc": "当视频加载到屏幕上时,选择输出质量并继续再次点击下载按钮"
+  },
+  "features": {
+  "title": "您的首选 Threads 下载器:快速、稳定和免费 - SnapSave",
+  "desc": "当您浏览 Threads 订阅源并遇到一个您想要保存的视频时,SnapSave 的 Threads 视频下载器就在这里帮助您。这是您想要的下载器,因为",
+  "feature1": "以 MP4 HD 质量下载 Threads 视频",
+  "feature1_desc": "我们的 Threads 下载器支持以 480p、720p(HD)、1080p(全高清)质量下载视频。您甚至可以渲染视频以获得更好的质量。但渲染更高质量的视频可能需要更长的时间。",
+  "feature2": "3-5 秒内快速稳定下载",
+  "feature2_desc": "这个下载工具也针对下载速度和稳定性进行了优化。它能快速获取视频并立即安全地保存到您的设备,无需任何麻烦。",
+  "feature3": "无限下载,完全免费",
+  "feature3_desc": "没有下载限制,您可以下载任意多的视频,而且是完全免费的。",
+  "feature4": "无需账户",
+  "feature4_desc": "在这里下载 Threads 内容是安全和安全的。不需要任何账户或个人信息。",
+  "feature5": "适用于 PC、Android 和 iOS",
+  "feature5_desc": "该工具可在包括 Android、iOS、Windows、macOS、Linux 和 ChromeOS 在内的任何智能设备上无缝运行。",
+  "feature6": "支持多种语言",
+  "feature6_desc": "我们为全球用户提供多语言支持。"
+  },
+  "faqTitle": "常见问题解答",
+  "faqs": {
+  "faq1": {
+  "question": "为什么要下载 Threads 视频和图片?",
+  "answer": "许多年轻人来到 Threads 上通过视频与特定观众和关注者分享私密故事。所以下载这些视频,您将获得大量独特的独家内容,可以重新观看并在 Twitter、Instagram 或 Facebook 上重新发布。"
+  },
+  "faq2": {
+  "question": "我可以直接在 Threads 上下载视频吗?",
+  "answer": "Threads 只支持在订阅源上保存和播放视频,而不是直接下载到您的个人设备。因此,您需要使用第三方 Threads 下载器来实现。"
+  },
+  "faq3": {
+  "question": "如何在 iPhone/Android 上下载 Threads 视频?",
+  "answer": [
+  "在 Threads 应用程序上,点击帖子下方的直接符号,然后选择复制链接",
+  "打开浏览器中的 Snapsave.app,然后选择 Threads 下载器",
+  "将链接粘贴到工具栏并点击下载按钮",
+  "再次点击下载按钮,然后将其保存到您的设备"
+  ]
+  },
+  "faq4": {
+  "question": "内容创作者知道我下载了他们在 Threads 上的内容吗?",
+  "answer": "不,他们不知道。使用我们的 Threads 视频下载器,您可以匿名下载 Threads 上的视频、图片和音频。"
+  },
+  "faq5": {
+  "question": "下载 Threads 视频合法吗?",
+  "answer": "是的,为了重温和保留记忆而保存 Threads 视频是合法的。如果您想重复使用内容,请考虑版权问题。"
+  },
+  "faq6": {
+  "question": "您们会在下载的 Threads 视频上加水印吗?",
+  "answer": "不,我们不会。Snapsave 不会在您在此下载的照片或剪辑上加水印。"
+  },
+  "faq7": {
+  "question": "如果 Threads 视频下载失败,我该怎么办?",
+  "answer": "我们的工具可能会遇到性能过载,导致下载失败。请尝试刷新(F5)或联系技术支持寻求帮助。"
+  }
+  }
+  }

@@ -1,0 +1,29 @@
+{
+  "close": "閉じる",
+  "paste": "貼り付ける",
+  "clear": "クリア",
+  "download": "ダウンロード",
+  "advertisement": "広告",
+  "footer": {
+  "policy": "プライバシーポリシー",
+  "tos": "利用規約",
+  "contact": "お問い合わせ",
+  "blog": "ブログ"
+  },
+  "downloader": {
+  "downvid": "ビデオをダウンロード",
+  "server": "ダウンロードサーバー01",
+  "server2": "ダウンロードサーバー02",
+  "placeholder": "Threadsリンクをここに貼り付けてください",
+  "dlanothervideo": "別のビデオをダウンロード",
+  "getiderror": "エラー: ビデオIDを取得できませんでした。",
+  "errorapi": "Threadsに接続できません。後でもう一度試してください",
+  "errorlinkthreads": "無効なスレッドリンクです。もう一度確認してください。",
+  "errornoturl": "無効なURLです。もう一度確認してください。",
+  "errorinputempty": "入力を空にすることはできません。上記の入力ボックスにスレッドリンクを入力して、もう一度試してください。"
+  },
+  "button": {
+  "ok": "OK",
+  "cancel": "キャンセル"
+  }
+  }

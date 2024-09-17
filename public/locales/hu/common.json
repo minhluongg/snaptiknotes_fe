@@ -1,0 +1,29 @@
+{
+  "close": "Bezárás",
+  "paste": "Beillesztés",
+  "clear": "Törlés",
+  "download": "Letöltés",
+  "advertisement": "Hirdetés",
+  "footer": {
+  "policy": "Adatvédelmi szabályzat",
+  "tos": "Szolgáltatási feltételek",
+  "contact": "Kapcsolat",
+  "blog": "Blog"
+  },
+  "downloader": {
+  "downvid": "Videó letöltése",
+  "server": "Letöltési szerver 01",
+  "server2": "Letöltési szerver 02",
+  "placeholder": "Illessze be a Threads linket ide",
+  "dlanothervideo": "Másik videó letöltése",
+  "getiderror": "Hiba: Nem sikerült lekérni a videó azonosítóját.",
+  "errorapi": "Nem lehet kapcsolódni a Threads-hez, próbálja újra később",
+  "errorlinkthreads": "Érvénytelen thread link. Kérjük, ellenőrizze újra.",
+  "errornoturl": "Érvénytelen URL. Kérjük, ellenőrizze újra.",
+  "errorinputempty": "a bemeneti mező nem lehet üres, kérjük, írja be a threads linket a fenti beviteli mezőbe és próbálja újra"
+  },
+  "button": {
+  "ok": "Ok",
+  "cancel": "Mégse"
+  }
+  }

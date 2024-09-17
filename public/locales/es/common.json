@@ -1,0 +1,30 @@
+{
+  "close": "Cerrar",
+  "paste": "Pegar",
+  "clear": "Limpiar",
+  "download": "Descargar",
+  "advertisement": "Anuncio",
+  "footer": {
+  "policy": "Política de privacidad",
+  "tos": "Términos de servicio",
+  "contact": "Contáctanos",
+  "blog": "Blog"
+  },
+  "downloader": {
+  "downvid": "Descargar video",
+  "server": "Servidor de descarga 01",
+  "server2": "Servidor de descarga 02",
+  "placeholder": "Pega el enlace de Threads aquí",
+  "dlanothervideo": "Descargar otro video",
+  "getiderror": "Error: No se pudo obtener el ID del video.",
+  "errorapi": "No se puede conectar a Threads, por favor intenta de nuevo más tarde",
+  "errorlinkthreads": "Enlace de hilo inválido. Verifica de nuevo.",
+  "errornoturl": "URL inválida. Verifica de nuevo.",
+  "errorinputempty": "el input no puede estar vacío, por favor ingresa el enlace de threads en el cuadro de entrada arriba e inténtalo de nuevo"
+  },
+  "button": {
+  "ok": "Aceptar",
+  "cancel": "Cancelar"
+  }
+  }
+  

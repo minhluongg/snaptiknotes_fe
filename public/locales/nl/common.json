@@ -1,0 +1,29 @@
+{
+  "close": "Sluiten",
+  "paste": "Plakken",
+  "clear": "Wissen",
+  "download": "Downloaden",
+  "advertisement": "Advertentie",
+  "footer": {
+  "policy": "Privacybeleid",
+  "tos": "Gebruiksvoorwaarden",
+  "contact": "Neem contact op",
+  "blog": "Blog"
+  },
+  "downloader": {
+  "downvid": "Video downloaden",
+  "server": "Download server 01",
+  "server2": "Download server 02",
+  "placeholder": "Plak hier de Threads-link",
+  "dlanothervideo": "Nog een video downloaden",
+  "getiderror": "Fout: Kan video-ID niet ophalen.",
+  "errorapi": "Kan geen verbinding maken met Threads, probeer het later opnieuw",
+  "errorlinkthreads": "Ongeldige thread-link. Controleer het opnieuw.",
+  "errornoturl": "Ongeldige URL. Controleer het opnieuw.",
+  "errorinputempty": "invoer mag niet leeg zijn, voer de threads-link in het bovenstaande invoerveld in en probeer het opnieuw"
+  },
+  "button": {
+  "ok": "Ok",
+  "cancel": "Annuleren"
+  }
+  }

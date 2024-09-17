@@ -1,0 +1,29 @@
+{
+"close": "Chiudi",
+"paste": "Incolla",
+"clear": "Cancella",
+"download": "Scarica",
+"advertisement": "Pubblicità",
+"footer": {
+"policy": "Informativa sulla privacy",
+"tos": "Termini di servizio",
+"contact": "Contattaci",
+"blog": "Blog"
+},
+"downloader": {
+"downvid": "Scarica video",
+"server": "Server di download 01",
+"server2": "Server di download 02",
+"placeholder": "Incolla qui il link Threads",
+"dlanothervideo": "Scarica un altro video",
+"getiderror": "Errore: impossibile ottenere l'ID video.",
+"errorapi": "Impossibile connettersi a Threads, riprova più tardi",
+"errorlinkthreads": "Link thread non valido. Controlla di nuovo.",
+"errornoturl": "URL non valido. Controlla di nuovo.",
+"errorinputempty": "l'input non può essere vuoto, inserisci il link threads nella casella di input sopra e riprova"
+},
+"button": {
+"ok": "OK",
+"cancel": "Annulla"
+}
+}

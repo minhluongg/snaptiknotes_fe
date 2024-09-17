@@ -1,0 +1,67 @@
+{
+  "title": "Pobierz wideo z Threads i Nieograniczone Pobieranie - Snapsave ",
+  "description": "Pobieraj darmowe filmy z Threads w wysokiej jakości, z dużą prędkością. Zapisuj filmy na swoim urządzeniu w pliku MP4 za pomocą najlepszego downloadera Threads.",
+  "h1": "Pobierz wideo z Threads",
+  "h2": "Pobieraj filmy, zdjęcia, GIF-y z Threads na swoje urządzenie",
+  "howto": {
+    "title": "Jak pobrać film z Threads za pomocą SnapSave",
+    "how1": "Skopiuj link do filmu",
+    "how1Desc": "Skopiuj link/URL filmów z Threads, które chcesz pobrać, klikając przycisk z trzema kropkami",
+    "how2": "Wklej go do downloadera Threads",
+    "how2Desc": "Po prostu wklej go w pasek pobierania i naciśnij przycisk pobierania",
+    "how3": "Pobierz",
+    "how3Desc": "Gdy film zostanie załadowany na ekranie, wybierz jakość wyjściową i ponownie naciśnij przycisk pobierania"
+  },
+  "features": {
+    "title": "Twój Ulubiony Downloader Threads: Szybki, Stabilny i Darmowy",
+    "desc": "Gdy przeglądasz Threads i natrafisz na film, który chcesz zapisać, downloader wideo Threads SnapSave jest tutaj, aby pomóc. To jest downloader, którego szukasz z powodu",
+    "feature1": "Pobieranie filmów z Threads w jakości MP4 HD",
+    "feature1_desc": "Nasz downloader Threads obsługuje pobieranie filmów w jakości 480p, 720p (HD), 1080p (Full HD). Możesz nawet przetworzyć film, aby uzyskać lepszą jakość, ale może to zająć trochę czasu.",
+    "feature2": "Szybkie i stabilne pobieranie w 3-5 sekund",
+    "feature2_desc": "Narzędzie do pobierania jest również zoptymalizowane pod kątem prędkości i stabilności pobierania. Szybko pobiera film i zapisuje go natychmiast na twoim urządzeniu bez problemów.",
+    "feature3": "Nieograniczone i całkowicie darmowe pobieranie filmów",
+    "feature3_desc": "Brak ograniczeń w pobieraniu, możesz pobierać tyle filmów, ile chcesz i jest to całkowicie darmowe.",
+    "feature4": "Bez potrzeby zakładania konta",
+    "feature4_desc": "Pobieranie treści z Threads tutaj jest całkowicie bezpieczne i chronione. Nie są wymagane żadne konta ani dane osobowe.",
+    "feature5": "Działa na PC, Android i iOS",
+    "feature5_desc": "Narzędzie działa bezproblemowo na każdym inteligentnym urządzeniu, w tym Android, iOS, Windows, macOS, Linux i ChromeOS.",
+    "feature6": "Obsługuje wiele języków",
+    "feature6_desc": "Obsługujemy wiele języków dla użytkowników na całym świecie."
+  },
+  "faqTitle": "Najczęściej zadawane pytania",
+  "faqs": {
+    "faq1": {
+      "question": "Dlaczego warto pobierać filmy i zdjęcia z Threads?",
+      "answer": "Wielu młodych ludzi korzysta z Threads, aby dzielić się prywatnymi historiami z określoną publicznością i obserwującymi poprzez filmy. Pobierz te filmy, a uzyskasz dużo unikalnych treści do ponownego obejrzenia i ponownego udostępnienia na Twitterze, Instagramie lub Facebooku."
+    },
+    "faq2": {
+      "question": "Czy mogę bezpośrednio pobrać film z Threads?",
+      "answer": "Threads obsługuje tylko zapisywanie i odtwarzanie filmu w feedzie, a nie bezpośrednie pobieranie na urządzenie osobiste. Potrzebujesz narzędzia zewnętrznego, aby to zrobić."
+    },
+    "faq3": {
+      "question": "Jak mogę pobrać film z Threads na iPhone/Android?",
+      "answer": [
+        "W aplikacji Threads dotknij symbolu bezpośredniego pod postem, a następnie wybierz 'kopiuj link'",
+        "Otwórz Snapsave.app w przeglądarce, a następnie wybierz downloader Threads",
+        "Wklej link do paska narzędzi i dotknij przycisku pobierania",
+        "Naciśnij ponownie przycisk pobierania, a następnie zapisz go na swoim urządzeniu"
+      ]
+    },
+    "faq4": {
+      "question": "Czy twórcy wiedzą, że pobrałem ich treści na Threads?",
+      "answer": "Nie, nie wiedzą. Z naszym downloaderem wideo Threads możesz anonimowo pobierać filmy, zdjęcia, audio na Threads."
+    },
+    "faq5": {
+      "question": "Czy pobieranie filmów z Threads jest legalne?",
+      "answer": "Tak, jest legalne zapisywanie filmów z Threads na potrzeby takie jak ponowne oglądanie, zachowanie wspomnień. Prosimy o rozważenie kwestii praw autorskich, jeśli chcesz ponownie wykorzystać treści."
+    },
+    "faq6": {
+      "question": "Czy umieszczacie znaki wodne na pobranych filmach z Threads?",
+      "answer": "Nie, nie robimy tego. SnapSave nie nakłada znaków wodnych na zdjęcia ani filmy, które tutaj pobierasz."
+    },
+    "faq7": {
+      "question": "Co powinienem zrobić, jeśli pobieranie filmu z Threads się nie powiedzie?",
+      "answer": "Nasze narzędzie może napotkać problemy z wydajnością, co prowadzi do niepowodzenia pobierania. Proszę spróbować ponownie, naciskając F5 lub skontaktować się z pomocą techniczną w celu uzyskania pomocy."
+    }
+  }
+}

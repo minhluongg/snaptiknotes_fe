@@ -1,0 +1,29 @@
+{
+  "close": "Fermer",
+  "paste": "Coller",
+  "clear": "Effacer",
+  "download": "Télécharger",
+  "advertisement": "Publicité",
+  "footer": {
+  "policy": "Politique de confidentialité",
+  "tos": "Conditions d'utilisation",
+  "contact": "Nous contacter",
+  "blog": "Blog"
+  },
+  "downloader": {
+  "downvid": "Télécharger la vidéo",
+  "server": "Serveur de téléchargement 01",
+  "server2": "Serveur de téléchargement 02",
+  "placeholder": "Collez le lien Threads ici",
+  "dlanothervideo": "Télécharger une autre vidéo",
+  "getiderror": "Erreur : Impossible d'obtenir l'ID de la vidéo.",
+  "errorapi": "Impossible de se connecter à Threads, veuillez réessayer plus tard",
+  "errorlinkthreads": "Lien de fil de discussion non valide. Veuillez vérifier à nouveau.",
+  "errornoturl": "URL non valide. Veuillez vérifier à nouveau.",
+  "errorinputempty": "l'entrée ne peut pas être vide, veuillez saisir le lien Threads dans la case d'entrée ci-dessus et réessayer"
+  },
+  "button": {
+  "ok": "Ok",
+  "cancel": "Annuler"
+  }
+  }

@@ -1,0 +1,29 @@
+{
+  "close": "关闭",
+  "paste": "粘贴",
+  "clear": "清除",
+  "download": "下载",
+  "advertisement": "广告",
+  "footer": {
+  "policy": "隐私政策",
+  "tos": "服务条款",
+  "contact": "联系我们",
+  "blog": "博客"
+  },
+  "downloader": {
+  "downvid": "下载视频",
+  "server": "下载服务器 01",
+  "server2": "下载服务器 02",
+  "placeholder": "在此粘贴 Threads 链接",
+  "dlanothervideo": "下载另一个视频",
+  "getiderror": "错误：无法获取视频 ID。",
+  "errorapi": "无法连接到 Threads，请稍后再试",
+  "errorlinkthreads": "无效的线程链接。请再次检查。",
+  "errornoturl": "无效的 URL。请再次检查。",
+  "errorinputempty": "输入不能为空,请将 threads 链接输入到上面的输入框并重试"
+  },
+  "button": {
+  "ok": "确定",
+  "cancel": "取消"
+  }
+  }

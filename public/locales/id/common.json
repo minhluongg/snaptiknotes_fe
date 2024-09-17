@@ -1,0 +1,29 @@
+{
+  "close": "Tutup",
+  "paste": "Tempel",
+  "clear": "Bersihkan",
+  "download": "Download",
+  "advertisement": "Iklan",
+  "footer": {
+  "policy": "Kebijakan Privasi",
+  "tos": "Ketentuan Layanan",
+  "contact": "Hubungi Kami",
+  "blog": "Blog"
+  },
+  "downloader": {
+  "downvid": "Download Video",
+  "server": "Server Unduhan 01",
+  "server2": "Server Unduhan 02",
+  "placeholder": "Tempel tautan Threads di sini",
+  "dlanothervideo": "Download video lain",
+  "getiderror": "Error: Tidak dapat mendapatkan ID Video.",
+  "errorapi": "Tidak dapat terhubung ke Threads, coba lagi nanti",
+  "errorlinkthreads": "Tautan thread tidak valid. Periksa kembali.",
+  "errornoturl": "URL tidak valid. Periksa kembali.",
+  "errorinputempty": "input tidak boleh kosong, masukkan tautan threads ke dalam kotak input di atas dan coba lagi"
+  },
+  "button": {
+  "ok": "Oke",
+  "cancel": "Batal"
+  }
+  }

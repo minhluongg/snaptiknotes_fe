@@ -1,0 +1,30 @@
+
+{
+"close": "Tutup",
+"paste": "Tampal",
+"clear": "Kosongkan",
+"download": "Muat turun",
+"advertisement": "Iklan",
+"footer": {
+"policy": "Dasar Privasi",
+"tos": "Terma Perkhidmatan",
+"contact": "Hubungi Kami",
+"blog": "Blog"
+},
+"downloader": {
+"downvid": "Muat Turun Video",
+"server": "Muat Turun server 01",
+"server2": "Muat Turun server 02",
+"placeholder": "Tampal pautan Threads di sini",
+"dlanothervideo": "Muat turun video lain",
+"getiderror": "Ralat: Tidak dapat mendapatkan ID Video.",
+"errorapi": "Tidak dapat berhubung dengan Threads, sila cuba lagi kemudian",
+"errorlinkthreads": "Pautan thread tidak sah. Sila periksa lagi.",
+"errornoturl": "URL tidak sah. Sila periksa lagi.",
+"errorinputempty": "input tidak boleh kosong, sila masukkan pautan threads ke dalam kotak input di atas dan cuba lagi"
+},
+"button": {
+"ok": "Ok",
+"cancel": "Batal"
+}
+}

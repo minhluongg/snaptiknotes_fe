@@ -1,0 +1,29 @@
+{
+  "close": "Schließen",
+  "paste": "Einfügen",
+  "clear": "Löschen",
+  "download": "Herunterladen",
+  "advertisement": "Werbung",
+  "footer": {
+  "policy": "Datenschutzrichtlinie",
+  "tos": "Nutzungsbedingungen",
+  "contact": "Kontaktiere uns",
+  "blog": "Blog"
+  },
+  "downloader": {
+  "downvid": "Video herunterladen",
+  "server": "Download-Server 01",
+  "server2": "Download-Server 02",
+  "placeholder": "Threads-Link hier einfügen",
+  "dlanothervideo": "Weiteres Video herunterladen",
+  "getiderror": "Fehler: Video-ID konnte nicht abgerufen werden.",
+  "errorapi": "Verbindung zu Threads nicht möglich, bitte versuchen Sie es später erneut",
+  "errorlinkthreads": "Ungültiger Thread-Link. Bitte überprüfen Sie ihn erneut.",
+  "errornoturl": "Ungültige URL. Bitte überprüfen Sie sie erneut.",
+  "errorinputempty": "Eingabe darf nicht leer sein, bitte geben Sie den Threads-Link in das obige Eingabefeld ein und versuchen Sie es erneut"
+  },
+  "button": {
+  "ok": "Ok",
+  "cancel": "Abbrechen"
+  }
+  }

@@ -1,0 +1,29 @@
+{
+  "close": "Zavřít",
+  "paste": "Vložit",
+  "clear": "Vymazat",
+  "download": "Stáhnout",
+  "advertisement": "Reklama",
+  "footer": {
+  "policy": "Zásady ochrany osobních údajů",
+  "tos": "Podmínky služby",
+  "contact": "Kontaktujte nás",
+  "blog": "Blog"
+  },
+  "downloader": {
+  "downvid": "Stáhnout video",
+  "server": "Stáhnout server 01",
+  "server2": "Stáhnout server 02",
+  "placeholder": "Vložte zde odkaz na Threads",
+  "dlanothervideo": "Stáhnout další video",
+  "getiderror": "Chyba: Nepodařilo se získat ID videa.",
+  "errorapi": "Nelze se připojit k Threads, zkuste to prosím později",
+  "errorlinkthreads": "Neplatný odkaz na vlákno. Zkontrolujte prosím znovu.",
+  "errornoturl": "Neplatná adresa URL. Zkontrolujte prosím znovu.",
+  "errorinputempty": "Vstup nemůže být prázdný, zadejte prosím odkaz na vlákna do pole vstupu nad tím a zkuste to znovu"
+  },
+  "button": {
+  "ok": "OK",
+  "cancel": "Zrušit"
+  }
+  }

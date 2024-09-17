@@ -1,0 +1,67 @@
+{
+  "title": "Stáhněte si video Threads Rychle, zdarma - Snapsave",
+  "description": "Bezplatné stažení videí z Threads v vysoké kvalitě, rychlé rychlosti a uložení videí do vašeho zařízení v souboru MP4 s nejlepším stahováním Threads.",
+  "h1": "Stáhněte si video Threads",
+  "h2": "Stáhněte si videa, fotky a GIFy na Threads do svého zařízení",
+  "howto": {
+  "title": "Jak stáhnout video z Threads pomocí SnapSave",
+  "how1": "Zkopírujte odkaz na video",
+  "how1Desc": "Zkopírujte odkaz/adresu URL videí z Threads, které chcete stáhnout, kliknutím na tlačítko se třemi tečkami",
+  "how2": "Vložte jej do stahování Threads",
+  "how2Desc": "Jednoduše jej vložte do panelu stahování a klikněte na tlačítko stáhnout",
+  "how3": "Stáhnout",
+  "how3Desc": "Když se video načte na obrazovce, vyberte výstupní kvalitu a pokračujte kliknutím na tlačítko stáhnout znovu"
+  },
+  "features": {
+  "title": "Váš Threads Downloader z volby: Rychlý, stabilní a zdarma",
+  "desc": "Když procházíte kanál Threads a narazíte na video, které chcete uložit, je zde stahování videí z Threads od SnapSave, aby vám pomohl. Toto je váš požadovaný downloader, protože",
+  "feature1": "Stáhněte si videa z Threads v kvalitě MP4 HD",
+  "feature1_desc": "Náš stahování Threads podporuje stahování videí v kvalitě 480p, 720p (HD), 1080p (Full HD). Dokonce můžete video renderovat pro lepší kvalitu. Ale lepší kvalita videa může zabrat více času.",
+  "feature2": "Rychlé a stabilní stahování za 3-5 sekund",
+  "feature2_desc": "Nástroj pro stahování je také optimalizován pro rychlost a stabilitu stahování. Rychle stáhne video a uloží jej přímo do vašeho zařízení bez problémů.",
+  "feature3": "Stahujte videa neomezeně a zcela zdarma",
+  "feature3_desc": "Neexistuje žádné omezení na stahování, můžete stahovat tolik videí, kolik chcete, a je to zcela zdarma.",
+  "feature4": "Není nutné žádné účet",
+  "feature4_desc": "Stahování obsahu z Threads je zde skutečně bezpečné a zabezpečené. Nejsou vyžadovány žádné účty ani osobní údaje.",
+  "feature5": "Funguje na PC, Androidu a iOS",
+  "feature5_desc": "Nástroj funguje bezproblémově na jakémkoli chytrém zařízení včetně Androidu, iOS, Windows, macOS, Linuxu a ChromeOS.",
+  "feature6": "Podpora více jazyků",
+  "feature6_desc": "Podporujeme několik jazyků pro uživatele na celém světě."
+  },
+  "faqTitle": "Časté dotazy",
+  "faqs": {
+  "faq1": {
+  "question": "Proč stahovat videa a fotky z Threads?",
+  "answer": "Mnoho mladých lidí přichází na Threads, aby sdíleli soukromý příběh s konkrétními publiky a sledujícími prostřednictvím videí. Takže stáhněte tato videa a získáte spoustu jedinečného exkluzivního obsahu, který si můžete znovu prohlédnout a znovu sdílet na Twitteru, Instagramu nebo Facebooku."
+  },
+  "faq2": {
+  "question": "Mohu video přímo na Threads stáhnout?",
+  "answer": "Threads podporuje pouze ukládání a přehrávání videa v kanálu, ne jeho přímé stažení do vašeho osobního zařízení. Takže budete potřebovat downloader Threads třetí strany, aby to šlo."
+  },
+  "faq3": {
+  "question": "Jak můžu stáhnout video z Threads na iPhone/Android?",
+  "answer": [
+  "V aplikaci Threads klepněte na přímý symbol pod příspěvkem a vyberte kopírovat odkaz",
+  "Otevřete Snapsave.app v prohlížeči a vyberte stahování Threads",
+  "Vložte odkaz do panelu nástrojů a klikněte na tlačítko stáhnout",
+  "Klikněte znovu na tlačítko stáhnout a uložte si jej do svého zařízení"
+  ]
+  },
+  "faq4": {
+  "question": "Vědí tvůrci, když jsem stáhl jejich obsah na Threads?",
+  "answer": "Ne, nevědí. S naším stahováním videí z Threads můžete stahovat videa, obrázky a zvuk na Threads anonymně."
+  },
+  "faq5": {
+  "question": "Je legální stahovat videa z Threads?",
+  "answer": "Ano, je legální ukládat videa z Threads například kvůli opětovnému zhlédnutí nebo uchování vzpomínek. Pokud však chcete obsah dále používat, zvažte autorská práva."
+  },
+  "faq6": {
+  "question": "Vkládáte na stažená videa z Threads vodoznak?",
+  "answer": "Ne, to neděláme. Snapsave nepřidává na fotky ani klipy, které zde stáhnete, žádný vodoznak."
+  },
+  "faq7": {
+  "question": "Co mám dělat, když se nepodaří stáhnout video z Threads?",
+  "answer": "Náš nástroj může z důvodu přetížení výkonu selhávat při stahování. Zkuste to prosím znovu stisknout F5 nebo se obraťte na technickou podporu pro nápovědu."
+  }
+  }
+  }

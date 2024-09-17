@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://threads.snapsave.app/sitemap.xml
