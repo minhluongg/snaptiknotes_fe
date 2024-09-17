@@ -23,54 +23,54 @@ const LayoutMain = ({ children, customMeta, meta }) => {
       <Head>
         <meta charSet="UTF-8" />
         <meta name="google" content="notranslate" />
-        <meta name="robots" content="index, follow" />
+        <meta name="robots" content="noindex, nofollow" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
         <title>
-          {meta?.title || "Threads Downloader | Threads.SnapSave.App"}
+          {meta?.title || "TikTok Notes Downloader | SnaptikNotes.App"}
         </title>
         <meta
           name="description"
           content={
-            meta?.description || "Threads Downloader | Threads.SnapSave.App"
+            meta?.description || "TikTok Notes Downloader | SnaptikNotes.App"
           }
         />
         <meta name="revisit-after" content="1 days" />
         <meta
           itemProp="name"
-          content={meta?.title || "Threads Downloader | Threads.SnapSave.App"}
+          content={meta?.title || "TikTok Notes Downloader | SnaptikNotes.App"}
         />
         <meta name="author" content="SnapSave" />
         <meta itemProp="image" content="/preview.jpg" />
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:title"
-          content={meta?.title || "Threads Downloader | Threads.SnapSave.App"}
+          content={meta?.title || "TikTok Notes Downloader | SnaptikNotes.App"}
         />
         <meta
           name="twitter:description"
           content={
-            meta?.description || "Threads Downloader | Threads.SnapSave.App"
+            meta?.description || "TikTok Notes Downloader | SnaptikNotes.App"
           }
         />
         <meta name="twitter:image:src" content="/preview.jpg" />
         <meta
           property="og:title"
-          content={meta?.title || "Threads Downloader | Threads.SnapSave.App"}
+          content={meta?.title || "TikTok Notes Downloader | SnaptikNotes.App"}
         />
         <meta property="og:type" content="article" />
         <meta
           property="og:description"
           content={
-            meta?.description || "Threads Downloader | Threads.SnapSave.App"
+            meta?.description || "TikTok Notes Downloader | SnaptikNotes.App"
           }
         />
         <meta
           property="og:site_name"
-          content={meta?.title || "Threads Downloader | Threads.SnapSave.App"}
+          content={meta?.title || "TikTok Notes Downloader | SnaptikNotes.App"}
         />
         <link rel="shortcut icon" href="/favicon.ico" />
         <link
@@ -93,26 +93,26 @@ const LayoutMain = ({ children, customMeta, meta }) => {
         <meta property="og:image" content="/preview.jpg" />
         <link
           rel="alternate"
-          href={`https://threads.snapsave.app${router.route}`}
+          href={`https://snaptiknotes.app${router.route}`}
           {...{ hrefLang: "x-default" }}
         />
         <link
           rel="alternate"
-          href={`https://threads.snapsave.app${router.route}`}
+          href={`https://snaptiknotes.app${router.route}`}
           {...{ hrefLang: "en" }}
         />
         {localesList.slice(1).map((item) => (
           <link
             rel="alternate"
             key={`${item.code}_alternate`}
-            href={`https://threads.snapsave.app/${item.code}`}
+            href={`https://snaptiknotes.app/${item.code}`}
             {...{ hrefLang: item.code }}
           />
         ))}
 
         <link
           rel="canonical"
-          href={`https://threads.snapsave.app${
+          href={`https://snaptiknotes.app${
             router.locale === "en" ? "" : `/${router.locale}`
           }${router.route == "/" ? "" : router.route}`}
         />
