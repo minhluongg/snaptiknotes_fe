@@ -16,12 +16,12 @@ export default function HomeScreen() {
           {" "}
           <div className="mt-8 text-center">
             <Link
-              href="https://www.threads.net/"
+              href="https://notes.tiktok.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="cursor-pointer inline-flex items-center gap-1 py-1.5 px-2 mr-2 text-sm font-semibold text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200"
             >
-              <IconOpenLink></IconOpenLink> Open Threads
+              <IconOpenLink></IconOpenLink> Open TikTok Notes
             </Link>
           </div>
           <div className="mt-8 content">

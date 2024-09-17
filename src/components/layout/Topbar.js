@@ -31,7 +31,7 @@ const Topbar = () => {
           href="/"
           onClick={handleResetFormResult}
           locale={currentLang.code}
-          className="font-bold text-primary"
+          className="text-lg font-bold text-primary"
         >
           SnaptikNotes
         </Link>
