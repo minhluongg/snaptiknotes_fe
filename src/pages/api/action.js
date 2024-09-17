@@ -53,18 +53,20 @@ function getItems(data) {
 function handleData(data) {
   // Extract postinfo from the owner property
   // const avatarCdn = getCdnLink(
-  //   data.owner.avatar_url,
-  //   "avatar_" + data.owner.id
+  //   data["aweme_detail"]["author"]["avatar_thumb"]["url_list"][0],
+  //   data["aweme_detail"]["author"]["avatar_thumb"]["url_list"][0]
   // );
-  // const postinfo = {
-  //   id: "data.owner.id",
-  //   username: "data.owner.username",
-  //   avatar_url: "avatarCdn",
-  //   media_title: "data.title",
-  //   __type: "data.__type",
-  // };
-  const postinfo = {};
+  const postinfo = {
+    uid: data.aweme_detail.author.uid,
+    unique_id: data.aweme_detail.author.unique_id,
+    username: data.aweme_detail.author.unique_id,
+    avatar_url: data["aweme_detail"]["author"]["avatar_thumb"]["url_list"][0],
+    media_title: data.aweme_detail.desc,
+    // __type: "data.__type",
+  };
+  // const postinfo = data.aweme_detail.author;
   let items = getItems(data["aweme_detail"]["image_post_info"]["images"]);
+  // return data;
   return { postinfo, items, status_code: 0 };
 }
 

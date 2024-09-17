@@ -3,13 +3,14 @@ import React from "react";
 import IconVideo from "../icon/IconVideo";
 import IconPhoto from "../icon/IconPhoto";
 import IconDownload from "../icon/IconDownload";
+import { v4 as uuidv4 } from "uuid";
 
 const ShowResult = () => {
   const { formResult } = useResult();
   return (
     <div className="mt-4 result">
       {formResult && formResult.postinfo && (
-        <div className="flex items-center gap-4 p-3 rounded bg-slate-100 shadow user">
+        <div className="flex items-center gap-4 p-3 rounded shadow bg-slate-100 user">
           <div className="w-16 h-16 rounded-full avatar">
             <img
               src={formResult.postinfo.avatar_url}
@@ -29,23 +30,21 @@ const ShowResult = () => {
         {formResult &&
           formResult.items &&
           formResult.items.map((item) => (
-            <div className="p-2 rounded shadow-md" key={item.id}>
-              <div className="overflow-hidden rounded item aspect-square relative">
+            <div className="p-2 rounded shadow-md" key={uuidv4()}>
+              <div className="relative overflow-hidden rounded item aspect-square">
                 <img
-                  src={item.url || item.display_url}
-                  alt={item.id}
+                  src={item}
+                  alt="Photo"
                   className="object-cover w-full rounded aspect-square"
                 />
-                {item.display_url ? <IconVideo /> : <IconPhoto />}
-                {}
+                <IconPhoto />
               </div>
               <a
-                href={(item.video_url || item.url) + "&dl=1"}
-                className="flex items-center justify-center gap-2 w-full p-2 mt-2 text-center text-white rounded bg-primary"
+                href={item + "&dl=1"}
+                className="flex items-center justify-center w-full gap-2 p-2 mt-2 text-center text-white rounded bg-primary"
                 type="button"
               >
-                <IconDownload className="w-4 h-4"></IconDownload>{" "}
-                {item.url ? "Download Photo" : "Download Video"}
+                <IconDownload className="w-4 h-4"></IconDownload> Download Photo
               </a>
             </div>
           ))}
