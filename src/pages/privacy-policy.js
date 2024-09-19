@@ -38,7 +38,7 @@ export default function PrivacyPolicy() {
         </p>
 
         <h3>Definitions</h3>
-        <p>
+        <div>
           For the purposes of this Privacy Policy:
           <ul className="list-disc">
             <li>
@@ -91,7 +91,7 @@ export default function PrivacyPolicy() {
               individual is accessing or using the Service, as applicable.
             </li>
           </ul>
-        </p>
+        </div>
 
         <h2>Collecting and Using Your Personal Data</h2>
       </div>
