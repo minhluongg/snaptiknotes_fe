@@ -33,7 +33,7 @@ const Topbar = () => {
           locale={currentLang.code}
           className="text-lg font-bold text-primary"
         >
-          SnaptikNotes
+          TikNotes
         </Link>
         <div className="relative flex items-center space-x-1 md:order-2 md:space-x-0 rtl:space-x-reverse">
           <button

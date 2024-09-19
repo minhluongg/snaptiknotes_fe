@@ -14,20 +14,12 @@ const Footer = () => {
               </h2>
               <ul className="font-medium text-gray-500">
                 <li className="mb-4">
-                  <a
-                    href="https://snapsave.app/landing/contact"
+                  <Link
+                    href={{ pathname: "/contact-us" }}
                     className="hover:underline"
                   >
                     Contact Us
-                  </a>
-                </li>
-                <li className="mb-4">
-                  <a
-                    href="https://snapsave.app/blog/"
-                    className="hover:underline"
-                  >
-                    blog
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -37,20 +29,20 @@ const Footer = () => {
               </h2>
               <ul className="font-medium text-gray-500">
                 <li className="mb-4">
-                  <a
-                    href="https://snapsave.app/landing/privacy-policy"
+                  <Link
+                    href={{ pathname: "/privacy-policy" }}
                     className="hover:underline"
                   >
                     Privacy Policy
-                  </a>
+                  </Link>
                 </li>
                 <li className="mb-4">
-                  <a
-                    href="https://snapsave.app/landing/terms-of-service"
+                  <Link
+                    href={{ pathname: "/terms-of-service" }}
                     className="hover:underline"
                   >
                     Terms of Service
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
