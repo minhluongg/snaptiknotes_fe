@@ -4,6 +4,8 @@
   "clear": "Clear",
   "download": "Download",
   "advertisement": "Advertisement",
+  "opentiktoknotes": "Open TikTok Notes",
+  "successfully": "successfully",
   "footer": {
     "policy": "Privacy Policy",
     "tos": "Terms of service",
@@ -18,9 +20,14 @@
     "dlanothervideo": "Download another video",
     "getiderror": "Error: Could not get Video ID.",
     "errorapi": "Unable to connect to TikTok Notes, please try again later",
-    "errorlinkthreads": "Invalid thread link. Please check again.",
+    "errorlinkthreads": "Invalid TikTok Notes link. Please check again.",
+    "erroruserpivate": "This account is private",
     "errornoturl": "Invalid URL. Please check again.",
     "errorinputempty": "input cannot be empty, please enter the TikTok Notes link into the input box above and try again"
+  },
+  "tiktoknotes": {
+    "following": "{count} Following",
+    "follower": "{count} Followers"
   },
   "button": {
     "ok": "Ok",

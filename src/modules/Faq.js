@@ -54,12 +54,7 @@ const HomeFaq = () => {
           </AccordionItemButton>
         </AccordionItemHeading>
         <AccordionItemPanel active={activeIndex === 3}>
-          <ul className="ol-decorated">
-            <li className="mt-1">{home("faqs.faq3.answer.0")}</li>
-            <li>{home("faqs.faq3.answer.1")}</li>
-            <li>{home("faqs.faq3.answer.2")}</li>
-            <li>{home("faqs.faq3.answer.3")}</li>
-          </ul>
+          {home("faqs.faq3.answer")}
         </AccordionItemPanel>
       </AccordionItem>
       <AccordionItem>
@@ -85,7 +80,14 @@ const HomeFaq = () => {
           </AccordionItemButton>
         </AccordionItemHeading>
         <AccordionItemPanel active={activeIndex === 5}>
-          {home("faqs.faq5.answer")}
+          <p>{home("faqs.faq5.answer.subtitle")}</p>
+          <ul className="ol-decorated">
+            <li className="mt-1">{home("faqs.faq5.answer.lists.0")}</li>
+            <li>{home("faqs.faq5.answer.lists.1")}</li>
+            <li>{home("faqs.faq5.answer.lists.2")}</li>
+            <li>{home("faqs.faq5.answer.lists.3")}</li>
+            <li>{home("faqs.faq5.answer.lists.4")}</li>
+          </ul>
         </AccordionItemPanel>
       </AccordionItem>
       <AccordionItem>
@@ -106,13 +108,30 @@ const HomeFaq = () => {
           <AccordionItemButton
             onClick={() => handleToggle(7)}
             active={activeIndex === 7}
-            borderBottom={true}
           >
             {home("faqs.faq7.question")}
           </AccordionItemButton>
         </AccordionItemHeading>
-        <AccordionItemPanel active={activeIndex === 7} borderBottom={true}>
-          {home("faqs.faq7.answer")}
+        <AccordionItemPanel active={activeIndex === 7}>
+          <p>{home("faqs.faq7.answer.subtitle")}</p>
+          <ul className="ol-decorated">
+            <li className="mt-1">{home("faqs.faq7.answer.lists.0")}</li>
+            <li>{home("faqs.faq7.answer.lists.1")}</li>
+            <li>{home("faqs.faq7.answer.lists.2")}</li>
+          </ul>
+        </AccordionItemPanel>
+      </AccordionItem>
+      <AccordionItem>
+        <AccordionItemHeading>
+          <AccordionItemButton
+            onClick={() => handleToggle(8)}
+            active={activeIndex === 8}
+          >
+            {home("faqs.faq8.question")}
+          </AccordionItemButton>
+        </AccordionItemHeading>
+        <AccordionItemPanel active={activeIndex === 8}>
+          {home("faqs.faq8.answer")}
         </AccordionItemPanel>
       </AccordionItem>
     </div>

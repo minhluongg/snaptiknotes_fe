@@ -60,6 +60,16 @@
   top: 0;
   transform: translate(0, 24px);
 }
+.step {
+  @apply text-gray-800;
+  @apply bg-gray-100;
+  @apply font-medium;
+  @apply px-2.5;
+  @apply py-0.5;
+  @apply rounded;
+  @apply border;
+  @apply border-gray-500;
+}
 
 .list-lang {
   grid-template-columns: 1fr 1fr;

@@ -5,6 +5,7 @@ import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import Link from "next/link";
 import IconOpenLink from "../icon/IconOpenLink";
 import { useResult } from "@/contexts/resultContext";
+import parse from "html-react-parser";
 
 export default function HomeScreen() {
   const { t: home } = useTranslation("home");
@@ -25,31 +26,28 @@ export default function HomeScreen() {
             </Link>
           </div>
           <div className="mt-8 content">
-            <h2>{home("howto.title")}</h2>
+            <h2>{home("introducing.title")}</h2>
+            <p>{parse(home("introducing.introducing1"))}</p>
+            <p>{home("introducing.introducing2")}</p>
 
-            <b>{home("howto.how1")}</b>
-            <p>{home("howto.how1Desc")}</p>
-            <b>{home("howto.how2")}</b>
-            <p>{home("howto.how2Desc")}</p>
-            <b>{home("howto.how3")}</b>
-            <p>{home("howto.how3Desc")}</p>
+            <h2>{home("howto.title")}</h2>
+            <p>{home("howto.subtitle")}</p>
+            <p>{parse(home("howto.how1"))}</p>
+            <p>{parse(home("howto.how2"))}</p>
+            <p>{parse(home("howto.how3"))}</p>
+            <p>{parse(home("howto.how4"))}</p>
 
             <h2>{home("features.title")}</h2>
-            <p>{home("features.desc")}</p>
-            <h3>{home("features.feature1")}</h3>
-            <p>{home("features.feature1_desc")}</p>
-            <h3>{home("features.feature2")}</h3>
-            <p>{home("features.feature2_desc")}</p>
-            <h3>{home("features.feature3")}</h3>
-            <p>{home("features.feature3_desc")}</p>
-            <h3>{home("features.feature4")}</h3>
-            <p>{home("features.feature4_desc")}</p>
-            <h3>{home("features.feature5")}</h3>
-            <p>{home("features.feature5_desc")}</p>
-            <h3>{home("features.feature6")}</h3>
-            <p>{home("features.feature6_desc")}</p>
+            <p>{home("features.subtitle")}</p>
+            <ul className="ol-decorated">
+              <li>{parse(home("features.feature1"))}</li>
+              <li>{parse(home("features.feature2"))}</li>
+              <li>{parse(home("features.feature3"))}</li>
+              <li>{parse(home("features.feature4"))}</li>
+              <li>{parse(home("features.feature5"))}</li>
+            </ul>
 
-            <h2>{home("faqTitle")}</h2>
+            <h2 className="mt-8">{home("faqTitle")}</h2>
             <Faq></Faq>
           </div>
         </>
