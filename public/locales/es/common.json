@@ -1,30 +1,36 @@
 {
   "close": "Cerrar",
   "paste": "Pegar",
-  "clear": "Limpiar",
+  "clear": "Borrar",
   "download": "Descargar",
-  "advertisement": "Anuncio",
+  "advertisement": "Publicidad",
+  "opentiktoknotes": "Abrir TikTok Notes",
+  "successfully": "exitosamente",
   "footer": {
-  "policy": "Política de privacidad",
-  "tos": "Términos de servicio",
-  "contact": "Contáctanos",
-  "blog": "Blog"
+    "policy": "Política de Privacidad",
+    "tos": "Términos de Servicio",
+    "contact": "Contáctenos",
+    "blog": "Blog"
   },
   "downloader": {
-  "downvid": "Descargar video",
-  "server": "Servidor de descarga 01",
-  "server2": "Servidor de descarga 02",
-  "placeholder": "Pega el enlace de Threads aquí",
-  "dlanothervideo": "Descargar otro video",
-  "getiderror": "Error: No se pudo obtener el ID del video.",
-  "errorapi": "No se puede conectar a Threads, por favor intenta de nuevo más tarde",
-  "errorlinkthreads": "Enlace de hilo inválido. Verifica de nuevo.",
-  "errornoturl": "URL inválida. Verifica de nuevo.",
-  "errorinputempty": "el input no puede estar vacío, por favor ingresa el enlace de threads en el cuadro de entrada arriba e inténtalo de nuevo"
+    "downvid": "Descargar video",
+    "server": "Descargar servidor 01",
+    "server2": "Descargar servidor 02",
+    "placeholder": "Pega el enlace de TikTok Notes aquí",
+    "dlanothervideo": "Descargar otro video",
+    "getiderror": "Error: No se pudo obtener el ID del video.",
+    "errorapi": "No se puede conectar con TikTok Notes, inténtalo más tarde",
+    "errorlinkthreads": "Enlace de TikTok Notes no válido. Por favor revisa de nuevo.",
+    "erroruserpivate": "Esta cuenta es privada",
+    "errornoturl": "URL inválida. Por favor revisa de nuevo.",
+    "errorinputempty": "La entrada no puede estar vacía, por favor ingresa el enlace de TikTok Notes en el cuadro de entrada arriba y vuelve a intentarlo"
+  },
+  "tiktoknotes": {
+    "following": "{count} Siguiendo",
+    "follower": "{count} Seguidores"
   },
   "button": {
-  "ok": "Aceptar",
-  "cancel": "Cancelar"
+    "ok": "Ok",
+    "cancel": "Cancelar"
   }
-  }
-  
+}

@@ -1,67 +1,79 @@
 {
-  "title": "Download video Threads Cepat, Gratis & Tak Terbatas - SnapSave",
-  "description": "Download video Threads secara gratis dengan kualitas tinggi, kecepatan tinggi. Simpan video di perangkat Anda dalam format MP4 dengan downloader Threads terbaik.",
-  "h1": "Download video Threads",
-  "h2": "Save video, foto, GIF di Threads ke perangkat Anda",
+  "title": "Unduh Gambar TikTok Notes Gratis Tanpa Tanda Air - TikNotes.App",
+  "description": "Gunakan TikNotes.App untuk mengunduh foto TikTok Notes ke perangkat Anda tanpa tanda air. Pengunduh TikTok Notes terbaik untuk menyimpan konten secara gratis.",
+  "h1": "Unduh Foto TikTok Notes",
+  "subtitle": "Kualitas Tinggi - Gratis Digunakan Online - Tanpa Tanda Air",
+  "introducing": {
+    "title": "Memperkenalkan TikTok Notes Downloader",
+    "introducing1": "<a href='https://tiknotes.app/id'>TikNotes.App</a> adalah alat untuk mengunduh gambar TikTok Notes. Meskipun TikTok Notes memungkinkan pengguna untuk menyimpan foto secara instan ke perangkat Anda, mereka menambahkan tanda air pada foto.",
+    "introducing2": "Dengan pengunduh TikTok Notes ini, katakan tidak pada tanda air di foto. Alat ini cepat, berkualitas tinggi, dan sepenuhnya berorientasi pada pengguna."
+  },
   "howto": {
-  "title": "Cara mengunduh video Threads dengan SnapSave",
-  "how1": "Salin tautan video",
-  "how1Desc": "Salin tautan/URL video Threads yang ingin Anda unduh dengan mengklik tombol tiga titik",
-  "how2": "Tempel ke dalam downloader Threads",
-  "how2Desc": "Cukup tempel ke dalam bilah unduhan dan klik tombol unduh",
-  "how3": "Download",
-  "how3Desc": "Setelah video dimuat di layar, pilih kualitas output dan lanjutkan untuk klik tombol unduh lagi"
+    "title": "Bagaimana cara mengunduh foto dari TikTok Notes tanpa tanda air?",
+    "subtitle": "Gunakan TikNotes.App di ponsel atau PC melalui browser web untuk mengunduh foto TikTok Notes tanpa tanda air. Ikuti langkah-langkah ini:",
+    "how1": "<span class='step'>Langkah 1:</span> <b>Buka</b> <a href='https://tiknotes.app/id'>TikNotes.App</a>",
+    "how2": "<span class='step'>Langkah 2:</span> <b>Salin</b> dan <b>Tempel</b> tautan posting dari TikTok Notes ke toolbar",
+    "how3": "<span class='step'>Langkah 3:</span> Klik <b>Tombol Unduh</b> dan tunggu hingga semua foto dari posting dimuat di layar",
+    "how4": "<span class='step'>Langkah 4:</span> Terus klik tombol <b>Unduh</b> di bawah setiap gambar untuk menyimpannya ke perangkat Anda."
   },
   "features": {
-  "title": "Downloader Threads Pilihan Anda: Cepat, Stabil & Gratis",
-  "desc": "Saat Anda menjelajahi umpan Threads dan menemukan video yang ingin Anda simpan, downloader video Threads SnapSave ada di sini untuk membantu. Ini adalah downloader yang Anda inginkan karena",
-  "feature1": "Unduh video Threads dalam kualitas MP4 HD",
-  "feature1_desc": "Downloader Threads kami mendukung unduhan video dalam kualitas 480p, 720p (HD), 1080p (Full HD). Anda juga dapat merender video untuk kualitas yang lebih baik, tetapi mungkin memakan waktu lebih lama.",
-  "feature2": "Unduh cepat dan stabil dalam 3-5 detik",
-  "feature2_desc": "Alat downloader ini juga dioptimalkan untuk kecepatan dan stabilitas unduhan. Ini mengambil video dengan cepat dan menyimpan langsung ke perangkat Anda tanpa masalah.",
-  "feature3": "Unduh video tak terbatas dan sepenuhnya gratis",
-  "feature3_desc": "Tidak ada batasan unduhan, Anda dapat mengunduh sebanyak video yang Anda inginkan dan itu sepenuhnya gratis.",
-  "feature4": "Tidak memerlukan akun",
-  "feature4_desc": "Mengunduh konten Threads di sini benar-benar aman dan aman. Tidak diperlukan akun atau informasi pribadi.",
-  "feature5": "Berfungsi di PC, Android, dan iOS",
-  "feature5_desc": "Alat ini berfungsi dengan lancar di perangkat pintar mana pun termasuk Android, iOS, Windows, macOS, Linux, dan ChromeOS.",
-  "feature6": "Mendukung banyak bahasa",
-  "feature6_desc": "Kami mendukung banyak bahasa untuk pengguna di seluruh dunia."
+    "title": "Fitur Utama TikNotes.App",
+    "subtitle": "TikNotes.App adalah pilihan utama untuk menyimpan foto TT Notes karena:",
+    "feature1": "<b>Unduhan Berkualitas Tinggi:</b> Kami mempertahankan kualitas gambar yang diunduh seperti aslinya. Anda akan mendapatkan gambar dengan resolusi HD atau Full HD yang menakjubkan.",
+    "feature2": "<b>Bebas Tanda Air:</b> Unduh foto TikTok Notes bersih tanpa merek untuk penggunaan pribadi.",
+    "feature3": "<b>Cepat dan Efisien:</b> Nikmati kecepatan unduhan yang cepat dan stabil. TikNotes.App dapat mengumpulkan semua gambar dari satu posting dalam hitungan detik.",
+    "feature4": "<b>Mudah Digunakan:</b> Alat ini berbasis web, mudah digunakan di PC maupun perangkat seluler.",
+    "feature5": "<b>100% Gratis:</b> Tidak ada biaya tersembunyi atau langganan."
   },
-  "faqTitle": "Pertanyaan Umum",
+  "faqTitle": "Pertanyaan yang Sering Diajukan",
   "faqs": {
-  "faq1": {
-  "question": "Mengapa harus mengunduh video dan foto Threads?",
-  "answer": "Banyak orang muda datang ke Threads untuk berbagi cerita pribadi dengan audiens dan pengikut tertentu melalui video. Jadi, unduh video-video itu dan Anda akan mendapatkan banyak konten eksklusif dan unik untuk ditonton ulang dan dibagikan kembali ke Twitter, Instagram, atau Facebook."
-  },
-  "faq2": {
-  "question": "Bisakah saya mengunduh video di Threads secara langsung?",
-  "answer": "Threads hanya mendukung menyimpan dan memutar video di umpan, bukan mengunduhnya secara langsung ke perangkat pribadi Anda. Jadi, Anda membutuhkan downloader pihak ketiga untuk melakukannya."
-  },
-  "faq3": {
-  "question": "Bagaimana cara mengunduh video Threads di iPhone/Android?",
-  "answer": [
-  "Di app Threads, ketuk simbol langsung di bawah posting lalu pilih salin tautan",
-  "Buka Snapsave.app melalui browser lalu pilih downloader Threads",
-  "Tempel tautan ke bilah alat dan klik tombol unduh",
-  "Klik lagi tombol unduh lalu simpan ke perangkat Anda"
-  ]
-  },
-  "faq4": {
-  "question": "Apakah pembuat tahu jika saya mengunduh konten mereka di Threads?",
-  "answer": "Tidak, mereka tidak tahu. Dengan downloader video Threads kami, Anda dapat mengunduh video, gambar, audio di Threads secara anonim."
-  },
-  "faq5": {
-  "question": "Apakah legal untuk mengunduh video Threads?",
-  "answer": "Ya, sah untuk menyimpan video Threads untuk tujuan seperti menonton ulang, menyimpan kenangan. Harap pertimbangkan masalah hak cipta jika Anda ingin menggunakan kembali kontennya."
-  },
-  "faq6": {
-  "question": "Apakah Anda memberi watermark pada video Threads yang diunduh?",
-  "answer": "Tidak, kami tidak melakukannya. Snapsave tidak memberlakukan watermark pada foto atau klip yang Anda unduh di sini."
-  },
-  "faq7": {
-  "question": "Apa yang harus saya lakukan jika download video Threads gagal?",
-  "answer": "Alat kami mungkin menghadapi performa yang berlebihan, menyebabkan kegagalan unduhan. Silakan coba lagi dengan F5 atau hubungi dukungan teknis untuk bantuan."
+    "faq1": {
+      "question": "Apa itu TikTok Notes?",
+      "answer": "TikTok Notes adalah aplikasi gaya hidup baru yang diluncurkan oleh TikTok untuk berbagi foto tips perjalanan, resep harian, konten pendidikan, dan banyak lagi."
+    },
+    "faq2": {
+      "question": "Mengapa mengunduh foto TikTok Notes?",
+      "answer": "Karena TikTok Notes baru, konten foto bisa menjadi orisinal dan mutakhir. Mengunduh foto TikTok Notes menyediakan sumber daya visual untuk mendukung pekerjaan dan studi."
+    },
+    "faq3": {
+      "question": "Apakah mengunduh gambar TikTok Notes gratis?",
+      "answer": "Ya, mengunduh gambar dari TikTok Notes dengan TikNotes.App adalah gratis."
+    },
+    "faq4": {
+      "question": "Apakah aman mengunduh gambar TikTok Notes?",
+      "answer": "Ya, TikNotes.App sepenuhnya aman digunakan. Tidak perlu login atau registrasi."
+    },
+    "faq5": {
+      "question": "Dapatkah saya menggunakan TikNotes.App di PC?",
+      "answer": {
+        "subtitle": "Ya. Meskipun TikTok Notes sendiri hanya tersedia di perangkat seluler, Anda tetap dapat menggunakan TikNotes.App di komputer Anda untuk mengunduh gambar dengan mengikuti langkah-langkah ini:",
+        "lists": [
+          "Salin tautan posting TikTok Notes di perangkat seluler Anda.",
+          "Kirim tautan ini ke diri Anda sendiri (misalnya, melalui email atau aplikasi pesan).",
+          "Buka TikNotes.App di browser web PC Anda.",
+          "Tempelkan tautan TikTok Notes ke TikNotes.App di PC Anda.",
+          "Gunakan TikNotes.App untuk mengunduh konten foto."
+        ]
+      }
+    },
+    "faq6": {
+      "question": "Format gambar apa yang didukung oleh TikNotes.App?",
+      "answer": "TikNotes.App mendukung unduhan foto dalam format JPEG. Kami mempertimbangkan untuk menawarkan lebih banyak opsi format di masa mendatang."
+    },
+    "faq7": {
+      "question": "Bisakah saya mengunduh foto TikTok Notes secara massal?",
+      "answer": {
+        "subtitle": "Tidak, pengunduhan massal foto TikTok Notes tidak memungkinkan. Prosesnya bekerja sebagai berikut:",
+        "lists": [
+          "Tempel satu tautan pada satu waktu ke TikNotes.App.",
+          "Semua foto dari satu posting akan dimuat di layar.",
+          "Anda harus mengunduh setiap foto secara individual."
+        ]
+      }
+    },
+    "faq8": {
+      "question": "Dapatkah saya menggunakan kembali gambar yang diunduh dari TikTok Notes?",
+      "answer": "Menggunakan kembali gambar tanpa izin dapat melanggar hak cipta pemilik. Kami menyarankan untuk meminta izin dari pencipta sebelum Anda menggunakan kembali gambar dari TikTok Notes."
+    }
   }
-  }
-  }
+}

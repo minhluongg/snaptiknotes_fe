@@ -1,29 +1,36 @@
 {
-"close": "Đóng",
-"paste": "Dán",
-"clear": "Xóa",
-"download": "Tải xuống",
-"advertisement": "Quảng cáo",
-"footer": {
-"policy": "Chính sách bảo mật",
-"tos": "Điều khoản dịch vụ",
-"contact": "Liên hệ với chúng tôi",
-"blog": "Blog"
-},
-"downloader": {
-"downvid": "Tải video xuống",
-"server": "Máy chủ tải xuống 01",
-"server2": "Máy chủ tải xuống 02",
-"placeholder": "Dán liên kết Threads tại đây",
-"dlanothervideo": "Tải xuống video khác",
-"getiderror": "Lỗi: Không thể lấy ID video.",
-"errorapi": "Không thể kết nối với Threads, vui lòng thử lại sau",
-"errorlinkthreads": "Liên kết không hợp lệ. Vui lòng kiểm tra lại.",
-"errornoturl": "URL không hợp lệ. Vui lòng kiểm tra lại.",
-"errorinputempty": "Vui lòng nhập liên kết vào ô bên trên và thử lại"
-},
-"button": {
-"ok": "Đồng ý",
-"cancel": "Hủy"
-}
+  "close": "Đóng",
+  "paste": "Dán",
+  "clear": "Xóa",
+  "download": "Tải xuống",
+  "advertisement": "Quảng cáo",
+  "opentiktoknotes": "Mở TikTok Notes",
+  "successfully": "thành công",
+  "footer": {
+    "policy": "Chính sách bảo mật",
+    "tos": "Điều khoản dịch vụ",
+    "contact": "Liên hệ với chúng tôi",
+    "blog": "Blog"
+  },
+  "downloader": {
+    "downvid": "Tải xuống ảnh",
+    "server": "Tải xuống máy chủ 01",
+    "server2": "Tải xuống máy chủ 02",
+    "placeholder": "Dán liên kết TikTok Notes vào đây",
+    "dlanothervideo": "Tải xuống ảnh khác",
+    "getiderror": "Lỗi: Không thể lấy ID ảnh.",
+    "errorapi": "Không thể kết nối với TikTok Notes, vui lòng thử lại sau",
+    "errorlinkthreads": "Liên kết TikTok Notes không hợp lệ. Vui lòng kiểm tra lại.",
+    "erroruserpivate": "Tài khoản này là riêng tư",
+    "errornoturl": "URL không hợp lệ. Vui lòng kiểm tra lại.",
+    "errorinputempty": "Trường nhập không được để trống, vui lòng nhập liên kết TikTok Notes vào ô trên và thử lại"
+  },
+  "tiktoknotes": {
+    "following": "{count} Đang theo dõi",
+    "follower": "{count} Người theo dõi"
+  },
+  "button": {
+    "ok": "Ok",
+    "cancel": "Hủy bỏ"
+  }
 }

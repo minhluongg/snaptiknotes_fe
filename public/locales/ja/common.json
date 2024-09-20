@@ -1,29 +1,36 @@
 {
   "close": "閉じる",
-  "paste": "貼り付ける",
+  "paste": "貼り付け",
   "clear": "クリア",
   "download": "ダウンロード",
   "advertisement": "広告",
+  "opentiktoknotes": "TikTok Notesを開く",
+  "successfully": "成功しました",
   "footer": {
-  "policy": "プライバシーポリシー",
-  "tos": "利用規約",
-  "contact": "お問い合わせ",
-  "blog": "ブログ"
+    "policy": "プライバシーポリシー",
+    "tos": "利用規約",
+    "contact": "お問い合わせ",
+    "blog": "ブログ"
   },
   "downloader": {
-  "downvid": "ビデオをダウンロード",
-  "server": "ダウンロードサーバー01",
-  "server2": "ダウンロードサーバー02",
-  "placeholder": "Threadsリンクをここに貼り付けてください",
-  "dlanothervideo": "別のビデオをダウンロード",
-  "getiderror": "エラー: ビデオIDを取得できませんでした。",
-  "errorapi": "Threadsに接続できません。後でもう一度試してください",
-  "errorlinkthreads": "無効なスレッドリンクです。もう一度確認してください。",
-  "errornoturl": "無効なURLです。もう一度確認してください。",
-  "errorinputempty": "入力を空にすることはできません。上記の入力ボックスにスレッドリンクを入力して、もう一度試してください。"
+    "downvid": "動画をダウンロード",
+    "server": "サーバー01をダウンロード",
+    "server2": "サーバー02をダウンロード",
+    "placeholder": "ここにTikTok Notesのリンクを貼り付けてください",
+    "dlanothervideo": "別の動画をダウンロード",
+    "getiderror": "エラー: 動画IDを取得できませんでした。",
+    "errorapi": "TikTok Notesに接続できません。後でもう一度お試しください。",
+    "errorlinkthreads": "無効なTikTok Notesリンクです。もう一度確認してください。",
+    "erroruserpivate": "このアカウントは非公開です",
+    "errornoturl": "無効なURLです。もう一度確認してください。",
+    "errorinputempty": "入力欄を空にすることはできません。上記の入力ボックスにTikTok Notesのリンクを入力して、再度お試しください"
+  },
+  "tiktoknotes": {
+    "following": "{count} フォロー中",
+    "follower": "{count} フォロワー"
   },
   "button": {
-  "ok": "OK",
-  "cancel": "キャンセル"
+    "ok": "OK",
+    "cancel": "キャンセル"
   }
-  }
+}

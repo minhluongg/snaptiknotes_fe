@@ -1,29 +1,36 @@
 {
   "close": "Tutup",
   "paste": "Tempel",
-  "clear": "Bersihkan",
-  "download": "Download",
+  "clear": "Hapus",
+  "download": "Unduh",
   "advertisement": "Iklan",
+  "opentiktoknotes": "Buka TikTok Notes",
+  "successfully": "berhasil",
   "footer": {
-  "policy": "Kebijakan Privasi",
-  "tos": "Ketentuan Layanan",
-  "contact": "Hubungi Kami",
-  "blog": "Blog"
+    "policy": "Kebijakan Privasi",
+    "tos": "Syarat Layanan",
+    "contact": "Hubungi Kami",
+    "blog": "Blog"
   },
   "downloader": {
-  "downvid": "Download Video",
-  "server": "Server Unduhan 01",
-  "server2": "Server Unduhan 02",
-  "placeholder": "Tempel tautan Threads di sini",
-  "dlanothervideo": "Download video lain",
-  "getiderror": "Error: Tidak dapat mendapatkan ID Video.",
-  "errorapi": "Tidak dapat terhubung ke Threads, coba lagi nanti",
-  "errorlinkthreads": "Tautan thread tidak valid. Periksa kembali.",
-  "errornoturl": "URL tidak valid. Periksa kembali.",
-  "errorinputempty": "input tidak boleh kosong, masukkan tautan threads ke dalam kotak input di atas dan coba lagi"
+    "downvid": "Unduh Video",
+    "server": "Unduh server 01",
+    "server2": "Unduh server 02",
+    "placeholder": "Tempel tautan TikTok Notes di sini",
+    "dlanothervideo": "Unduh video lainnya",
+    "getiderror": "Kesalahan: Tidak dapat mendapatkan ID Video.",
+    "errorapi": "Tidak dapat terhubung ke TikTok Notes, coba lagi nanti",
+    "errorlinkthreads": "Tautan TikTok Notes tidak valid. Harap periksa lagi.",
+    "erroruserpivate": "Akun ini bersifat pribadi",
+    "errornoturl": "URL tidak valid. Harap periksa lagi.",
+    "errorinputempty": "Input tidak boleh kosong, silakan masukkan tautan TikTok Notes di kotak input di atas dan coba lagi"
+  },
+  "tiktoknotes": {
+    "following": "{count} Mengikuti",
+    "follower": "{count} Pengikut"
   },
   "button": {
-  "ok": "Oke",
-  "cancel": "Batal"
+    "ok": "Ok",
+    "cancel": "Batal"
   }
-  }
+}

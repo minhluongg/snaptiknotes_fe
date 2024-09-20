@@ -1,29 +1,36 @@
 {
-  "close": "Zamknij",
-  "paste": "Wklej",
-  "clear": "Wyczyść",
-  "download": "Pobierz",
-  "advertisement": "Reklama",
+  "close": "Fechar",
+  "paste": "Colar",
+  "clear": "Limpar",
+  "download": "Baixar",
+  "advertisement": "Anúncio",
+  "opentiktoknotes": "Abrir TikTok Notes",
+  "successfully": "com sucesso",
   "footer": {
-  "policy": "Polityka prywatności",
-  "tos": "Regulamin",
-  "contact": "Skontaktuj się z nami",
-  "blog": "Blog"
+    "policy": "Política de Privacidade",
+    "tos": "Termos de Serviço",
+    "contact": "Fale Conosco",
+    "blog": "Blog"
   },
   "downloader": {
-  "downvid": "Pobierz wideo",
-  "server": "Serwer pobierania 01",
-  "server2": "Serwer pobierania 02",
-  "placeholder": "Wklej link do Threads tutaj",
-  "dlanothervideo": "Pobierz inne wideo",
-  "getiderror": "Błąd: Nie można uzyskać identyfikatora wideo.",
-  "errorapi": "Nie można połączyć się z Threads, spróbuj ponownie później",
-  "errorlinkthreads": "Nieprawidłowy link do tematu. Sprawdź go ponownie.",
-  "errornoturl": "Nieprawidłowy adres URL. Sprawdź go ponownie.",
-  "errorinputempty": "wprowadzona wartość nie może być pusta, wpisz link do wątków w polu wprowadzania powyżej i spróbuj ponownie"
+    "downvid": "Baixar Vídeo",
+    "server": "Servidor de download 01",
+    "server2": "Servidor de download 02",
+    "placeholder": "Cole o link do TikTok Notes aqui",
+    "dlanothervideo": "Baixar outro vídeo",
+    "getiderror": "Erro: Não foi possível obter o ID do vídeo.",
+    "errorapi": "Não foi possível conectar ao TikTok Notes, tente novamente mais tarde",
+    "errorlinkthreads": "Link TikTok Notes inválido. Verifique novamente.",
+    "erroruserpivate": "Esta conta é privada",
+    "errornoturl": "URL inválido. Verifique novamente.",
+    "errorinputempty": "A entrada não pode estar vazia, insira o link do TikTok Notes na caixa de entrada acima e tente novamente"
+  },
+  "tiktoknotes": {
+    "following": "{count} Seguindo",
+    "follower": "{count} Seguidores"
   },
   "button": {
-  "ok": "OK",
-  "cancel": "Anuluj"
+    "ok": "Ok",
+    "cancel": "Cancelar"
   }
-  }
+}

@@ -4,6 +4,8 @@
   "clear": "साफ करें",
   "download": "डाउनलोड करें",
   "advertisement": "विज्ञापन",
+  "opentiktoknotes": "TikTok Notes खोलें",
+  "successfully": "सफलतापूर्वक",
   "footer": {
     "policy": "गोपनीयता नीति",
     "tos": "सेवा की शर्तें",
@@ -12,15 +14,20 @@
   },
   "downloader": {
     "downvid": "वीडियो डाउनलोड करें",
-    "server": "डाउनलोड सर्वर 01",
-    "server2": "डाउनलोड सर्वर 02",
-    "placeholder": "यहां Threads लिंक पेस्ट करें",
-    "dlanothervideo": "दूसरा वीडियो डाउनलोड करें",
-    "getiderror": "त्रुटि: वीडियो आईडी प्राप्त नहीं हो सका।",
-    "errorapi": "Threads से कनेक्ट नहीं हो सका, कृपया बाद में पुनः प्रयास करें",
-    "errorlinkthreads": "अमान्य थ्रेड लिंक। कृपया फिर से जांचें।",
-    "errornoturl": "अमान्य यूआरएल। कृपया फिर से जांचें।",
-    "errorinputempty": "इनपुट खाली नहीं हो सकता है, कृपया इनपुट बॉक्स में Threads लिंक दर्ज करें और पुनः प्रयास करें"
+    "server": "सर्वर डाउनलोड करें 01",
+    "server2": "सर्वर डाउनलोड करें 02",
+    "placeholder": "यहां TikTok Notes लिंक पेस्ट करें",
+    "dlanothervideo": "एक और वीडियो डाउनलोड करें",
+    "getiderror": "त्रुटि: वीडियो आईडी प्राप्त नहीं कर सका।",
+    "errorapi": "TikTok Notes से कनेक्ट नहीं हो सका, कृपया बाद में पुनः प्रयास करें",
+    "errorlinkthreads": "अमान्य TikTok Notes लिंक। कृपया फिर से जाँच करें।",
+    "erroruserpivate": "यह खाता निजी है",
+    "errornoturl": "अमान्य यूआरएल। कृपया फिर से जाँच करें।",
+    "errorinputempty": "इनपुट खाली नहीं हो सकता है, कृपया ऊपर TikTok Notes लिंक दर्ज करें और पुनः प्रयास करें"
+  },
+  "tiktoknotes": {
+    "following": "{count} अनुसरण कर रहे हैं",
+    "follower": "{count} अनुयायी"
   },
   "button": {
     "ok": "ठीक है",

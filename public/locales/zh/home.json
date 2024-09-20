@@ -1,67 +1,79 @@
 {
-  "title": "Threads 视频下载器 - 快速、免费和无限下载 - SnapSave",
-  "description": "免费以高品质、高速度下载 Threads 视频。将您的视频保存到设备中,格式为 MP4,使用最好的 Threads 下载器。",
-  "h1": "Threads 视频下载器",
-  "h2": "将 Threads 上的视频、照片和 GIF 下载到您的设备",
+  "title": "免费下载没有水印的 TikTok Notes 图片 - TikNotes.App",
+  "description": "使用 TikNotes.App 将 TikTok Notes 照片下载到您的设备，无水印。最好的 TikTok Notes 下载工具，可免费保存内容。",
+  "h1": "下载 TikTok Notes 图片",
+  "subtitle": "高质量 - 免费在线使用 - 无水印",
+  "introducing": {
+    "title": "介绍 TikTok Notes 下载器",
+    "introducing1": "<a href='https://tiknotes.app/zh'>TikNotes.App</a> 是下载 TikTok Notes 图片的工具。虽然 TikTok Notes 允许用户将照片直接保存到您的设备上，但他们会在照片上添加水印。",
+    "introducing2": "通过此 TikTok Notes 下载器，告别照片上的水印。该工具快速、高质量，并且完全面向用户。"
+  },
   "howto": {
-  "title": "如何使用 SnapSave 下载 Threads 视频",
-  "how1": "复制视频链接",
-  "how1Desc": "通过点击三点按钮复制您想要下载的 Threads 视频的链接/URL",
-  "how2": "将其粘贴到 Threads 下载器",
-  "how2Desc": "只需将其粘贴到下载栏并点击下载按钮",
-  "how3": "下载",
-  "how3Desc": "当视频加载到屏幕上时,选择输出质量并继续再次点击下载按钮"
+    "title": "如何下载没有水印的 TikTok Notes 图片？",
+    "subtitle": "通过网络浏览器在移动设备或电脑上使用 TikNotes.App 下载没有水印的 TikTok Notes 照片。请按照以下步骤操作：",
+    "how1": "<span class='step'>步骤 1：</span> <b>打开</b> <a href='https://tiknotes.app/zh'>TikNotes.App</a>",
+    "how2": "<span class='step'>步骤 2：</span> <b>复制</b> 并 <b>粘贴</b> TikTok Notes 帖子的链接到工具栏中",
+    "how3": "<span class='step'>步骤 3：</span> 点击 <b>下载按钮</b>，等待帖子中的所有图片加载到屏幕上",
+    "how4": "<span class='step'>步骤 4：</span> 继续点击每张图片下方的<b>下载按钮</b>，将其保存到您的设备。"
   },
   "features": {
-  "title": "您的首选 Threads 下载器:快速、稳定和免费 - SnapSave",
-  "desc": "当您浏览 Threads 订阅源并遇到一个您想要保存的视频时,SnapSave 的 Threads 视频下载器就在这里帮助您。这是您想要的下载器,因为",
-  "feature1": "以 MP4 HD 质量下载 Threads 视频",
-  "feature1_desc": "我们的 Threads 下载器支持以 480p、720p(HD)、1080p(全高清)质量下载视频。您甚至可以渲染视频以获得更好的质量。但渲染更高质量的视频可能需要更长的时间。",
-  "feature2": "3-5 秒内快速稳定下载",
-  "feature2_desc": "这个下载工具也针对下载速度和稳定性进行了优化。它能快速获取视频并立即安全地保存到您的设备,无需任何麻烦。",
-  "feature3": "无限下载,完全免费",
-  "feature3_desc": "没有下载限制,您可以下载任意多的视频,而且是完全免费的。",
-  "feature4": "无需账户",
-  "feature4_desc": "在这里下载 Threads 内容是安全和安全的。不需要任何账户或个人信息。",
-  "feature5": "适用于 PC、Android 和 iOS",
-  "feature5_desc": "该工具可在包括 Android、iOS、Windows、macOS、Linux 和 ChromeOS 在内的任何智能设备上无缝运行。",
-  "feature6": "支持多种语言",
-  "feature6_desc": "我们为全球用户提供多语言支持。"
+    "title": "TikNotes.App 的主要功能",
+    "subtitle": "TikNotes.App 是保存 TikTok Notes 照片的首选，因为：",
+    "feature1": "<b>高质量下载：</b> 我们保持下载图片与原始图片的质量一致。您将获得令人惊叹的高清或全高清分辨率图片。",
+    "feature2": "<b>无水印：</b> 下载干净、无品牌的 TikTok Notes 照片供个人使用。",
+    "feature3": "<b>快速高效：</b> 体验快速且稳定的下载速度。TikNotes.App 可以在几秒钟内收集帖子中的所有图片。",
+    "feature4": "<b>用户友好：</b> 该工具基于网络，易于在 PC 和移动设备上使用。",
+    "feature5": "<b>100% 免费：</b> 无隐藏费用或订阅。"
   },
-  "faqTitle": "常见问题解答",
+  "faqTitle": "常见问题",
   "faqs": {
-  "faq1": {
-  "question": "为什么要下载 Threads 视频和图片?",
-  "answer": "许多年轻人来到 Threads 上通过视频与特定观众和关注者分享私密故事。所以下载这些视频,您将获得大量独特的独家内容,可以重新观看并在 Twitter、Instagram 或 Facebook 上重新发布。"
-  },
-  "faq2": {
-  "question": "我可以直接在 Threads 上下载视频吗?",
-  "answer": "Threads 只支持在订阅源上保存和播放视频,而不是直接下载到您的个人设备。因此,您需要使用第三方 Threads 下载器来实现。"
-  },
-  "faq3": {
-  "question": "如何在 iPhone/Android 上下载 Threads 视频?",
-  "answer": [
-  "在 Threads 应用程序上,点击帖子下方的直接符号,然后选择复制链接",
-  "打开浏览器中的 Snapsave.app,然后选择 Threads 下载器",
-  "将链接粘贴到工具栏并点击下载按钮",
-  "再次点击下载按钮,然后将其保存到您的设备"
-  ]
-  },
-  "faq4": {
-  "question": "内容创作者知道我下载了他们在 Threads 上的内容吗?",
-  "answer": "不,他们不知道。使用我们的 Threads 视频下载器,您可以匿名下载 Threads 上的视频、图片和音频。"
-  },
-  "faq5": {
-  "question": "下载 Threads 视频合法吗?",
-  "answer": "是的,为了重温和保留记忆而保存 Threads 视频是合法的。如果您想重复使用内容,请考虑版权问题。"
-  },
-  "faq6": {
-  "question": "您们会在下载的 Threads 视频上加水印吗?",
-  "answer": "不,我们不会。Snapsave 不会在您在此下载的照片或剪辑上加水印。"
-  },
-  "faq7": {
-  "question": "如果 Threads 视频下载失败,我该怎么办?",
-  "answer": "我们的工具可能会遇到性能过载,导致下载失败。请尝试刷新(F5)或联系技术支持寻求帮助。"
+    "faq1": {
+      "question": "什么是 TikTok Notes？",
+      "answer": "TikTok Notes 是 TikTok 推出的一款新的生活方式应用，用于分享旅行建议、日常食谱、教育内容等的照片。"
+    },
+    "faq2": {
+      "question": "为什么要下载 TikTok Notes 照片？",
+      "answer": "由于 TikTok Notes 是新的，其照片内容可能是原创的、前沿的。下载 TikTok Notes 照片为工作和学习提供了视觉资源。"
+    },
+    "faq3": {
+      "question": "下载 TikTok Notes 图片是免费的吗？",
+      "answer": "是的，使用 TikNotes.App 下载 TikTok Notes 图片是免费的。"
+    },
+    "faq4": {
+      "question": "下载 TikTok Notes 图片安全吗？",
+      "answer": "是的，TikNotes.App 完全安全。无需登录或注册。"
+    },
+    "faq5": {
+      "question": "我可以在电脑上使用 TikNotes.App 吗？",
+      "answer": {
+        "subtitle": "是的。虽然 TikTok Notes 只能在移动设备上使用，但您仍然可以通过以下步骤在电脑上使用 TikNotes.App 下载图片：",
+        "lists": [
+          "在您的移动设备上复制 TikTok Notes 帖子的链接。",
+          "将此链接发送给自己（例如，通过电子邮件或消息应用）。",
+          "在您的 PC 上的网络浏览器中打开 TikNotes.App。",
+          "将 TikTok Notes 链接粘贴到您电脑上的 TikNotes.App。",
+          "使用 TikNotes.App 下载图片内容。"
+        ]
+      }
+    },
+    "faq6": {
+      "question": "TikNotes.App 支持什么图片格式？",
+      "answer": "TikNotes.App 支持以 JPEG 格式下载照片。我们正在考虑在不久的将来提供更多格式选项。"
+    },
+    "faq7": {
+      "question": "我可以批量下载 TikTok Notes 照片吗？",
+      "answer": {
+        "subtitle": "不，无法批量下载 TikTok Notes 照片。过程如下：",
+        "lists": [
+          "每次在 TikNotes.App 中粘贴一个链接。",
+          "所有来自一个帖子的照片都会加载到屏幕上。",
+          "您必须逐个下载每张照片。"
+        ]
+      }
+    },
+    "faq8": {
+      "question": "我可以重复使用从 TikTok Notes 下载的图片吗？",
+      "answer": "未经许可重复使用图片可能会侵犯版权所有者的权益。我们建议在重新使用 TikTok Notes 中的任何图片之前，请求创作者的许可。"
+    }
   }
-  }
-  }
+}

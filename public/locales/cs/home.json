@@ -1,67 +1,79 @@
 {
-  "title": "Stáhněte si video Threads Rychle, zdarma - Snapsave",
-  "description": "Bezplatné stažení videí z Threads v vysoké kvalitě, rychlé rychlosti a uložení videí do vašeho zařízení v souboru MP4 s nejlepším stahováním Threads.",
-  "h1": "Stáhněte si video Threads",
-  "h2": "Stáhněte si videa, fotky a GIFy na Threads do svého zařízení",
+  "title": "Stahujte obrázky z TikTok Notes zdarma bez vodoznaku - TikNotes.App",
+  "description": "Použijte TikNotes.App ke stažení obrázků z TikTok Notes do vašeho zařízení bez vodoznaků. Nejlepší nástroj pro stahování TikTok Notes zdarma.",
+  "h1": "Stahujte obrázky z TikTok Notes",
+  "subtitle": "Vysoká kvalita - Zdarma k použití online - Bez vodoznaku",
+  "introducing": {
+    "title": "Představujeme TikTok Notes Downloader",
+    "introducing1": "<a href='https://tiknotes.app/cs'>TikNotes.App</a> je nástroj pro stahování obrázků z TikTok Notes. Zatímco TikTok Notes umožňuje uživatelům okamžité uložení fotografií do vašeho zařízení, přidávají na ně vodoznak.",
+    "introducing2": "S tímto stahovačem TikTok Notes řekněte ne vodoznakům na fotografiích. Tento nástroj je rychlý, kvalitní a zaměřený na uživatele."
+  },
   "howto": {
-  "title": "Jak stáhnout video z Threads pomocí SnapSave",
-  "how1": "Zkopírujte odkaz na video",
-  "how1Desc": "Zkopírujte odkaz/adresu URL videí z Threads, které chcete stáhnout, kliknutím na tlačítko se třemi tečkami",
-  "how2": "Vložte jej do stahování Threads",
-  "how2Desc": "Jednoduše jej vložte do panelu stahování a klikněte na tlačítko stáhnout",
-  "how3": "Stáhnout",
-  "how3Desc": "Když se video načte na obrazovce, vyberte výstupní kvalitu a pokračujte kliknutím na tlačítko stáhnout znovu"
+    "title": "Jak stahovat obrázky z TikTok Notes bez vodoznaku?",
+    "subtitle": "Použijte TikNotes.App na mobilu nebo PC přes webový prohlížeč ke stahování obrázků z TikTok Notes bez vodoznaku. Postupujte podle těchto kroků:",
+    "how1": "<span class='step'>Krok 1:</span> <b>Otevřete</b> <a href='https://tiknotes.app/'>TikNotes.App</a>",
+    "how2": "<span class='step'>Krok 2:</span> <b>Zkopírujte</b> a <b>Vložte</b> odkaz na příspěvek z TikTok Notes do nástroje",
+    "how3": "<span class='step'>Krok 3:</span> Klikněte na <b>Tlačítko Stáhnout</b> a počkejte, až se všechny obrázky z příspěvku načtou na obrazovku",
+    "how4": "<span class='step'>Krok 4:</span> Pokračujte v klikání na <b>Tlačítko Stáhnout</b> pod každým obrázkem a uložte je do svého zařízení."
   },
   "features": {
-  "title": "Váš Threads Downloader z volby: Rychlý, stabilní a zdarma",
-  "desc": "Když procházíte kanál Threads a narazíte na video, které chcete uložit, je zde stahování videí z Threads od SnapSave, aby vám pomohl. Toto je váš požadovaný downloader, protože",
-  "feature1": "Stáhněte si videa z Threads v kvalitě MP4 HD",
-  "feature1_desc": "Náš stahování Threads podporuje stahování videí v kvalitě 480p, 720p (HD), 1080p (Full HD). Dokonce můžete video renderovat pro lepší kvalitu. Ale lepší kvalita videa může zabrat více času.",
-  "feature2": "Rychlé a stabilní stahování za 3-5 sekund",
-  "feature2_desc": "Nástroj pro stahování je také optimalizován pro rychlost a stabilitu stahování. Rychle stáhne video a uloží jej přímo do vašeho zařízení bez problémů.",
-  "feature3": "Stahujte videa neomezeně a zcela zdarma",
-  "feature3_desc": "Neexistuje žádné omezení na stahování, můžete stahovat tolik videí, kolik chcete, a je to zcela zdarma.",
-  "feature4": "Není nutné žádné účet",
-  "feature4_desc": "Stahování obsahu z Threads je zde skutečně bezpečné a zabezpečené. Nejsou vyžadovány žádné účty ani osobní údaje.",
-  "feature5": "Funguje na PC, Androidu a iOS",
-  "feature5_desc": "Nástroj funguje bezproblémově na jakémkoli chytrém zařízení včetně Androidu, iOS, Windows, macOS, Linuxu a ChromeOS.",
-  "feature6": "Podpora více jazyků",
-  "feature6_desc": "Podporujeme několik jazyků pro uživatele na celém světě."
+    "title": "Klíčové vlastnosti TikNotes.App",
+    "subtitle": "TikNotes.App je první volbou pro ukládání obrázků z TikTok Notes, protože:",
+    "feature1": "<b>Stahování ve vysoké kvalitě:</b> Zachováváme kvalitu stažených obrázků jako původní. Obrázky budete mít v ohromujícím vysokém rozlišení HD nebo Full HD.",
+    "feature2": "<b>Bez vodoznaku:</b> Stáhněte si čisté neoznačené obrázky TikTok Notes pro osobní použití.",
+    "feature3": "<b>Rychlé a efektivní:</b> Užijte si rychlé a stabilní stahování. TikNotes.App dokáže získat všechny obrázky z příspěvku během několika sekund.",
+    "feature4": "<b>Přátelské uživatelské rozhraní:</b> Nástroj je založen na webu, snadno použitelný jak na PC, tak na mobilních zařízeních.",
+    "feature5": "<b>100% zdarma:</b> Žádné skryté poplatky nebo předplatné."
   },
-  "faqTitle": "Časté dotazy",
+  "faqTitle": "Často kladené otázky",
   "faqs": {
-  "faq1": {
-  "question": "Proč stahovat videa a fotky z Threads?",
-  "answer": "Mnoho mladých lidí přichází na Threads, aby sdíleli soukromý příběh s konkrétními publiky a sledujícími prostřednictvím videí. Takže stáhněte tato videa a získáte spoustu jedinečného exkluzivního obsahu, který si můžete znovu prohlédnout a znovu sdílet na Twitteru, Instagramu nebo Facebooku."
-  },
-  "faq2": {
-  "question": "Mohu video přímo na Threads stáhnout?",
-  "answer": "Threads podporuje pouze ukládání a přehrávání videa v kanálu, ne jeho přímé stažení do vašeho osobního zařízení. Takže budete potřebovat downloader Threads třetí strany, aby to šlo."
-  },
-  "faq3": {
-  "question": "Jak můžu stáhnout video z Threads na iPhone/Android?",
-  "answer": [
-  "V aplikaci Threads klepněte na přímý symbol pod příspěvkem a vyberte kopírovat odkaz",
-  "Otevřete Snapsave.app v prohlížeči a vyberte stahování Threads",
-  "Vložte odkaz do panelu nástrojů a klikněte na tlačítko stáhnout",
-  "Klikněte znovu na tlačítko stáhnout a uložte si jej do svého zařízení"
-  ]
-  },
-  "faq4": {
-  "question": "Vědí tvůrci, když jsem stáhl jejich obsah na Threads?",
-  "answer": "Ne, nevědí. S naším stahováním videí z Threads můžete stahovat videa, obrázky a zvuk na Threads anonymně."
-  },
-  "faq5": {
-  "question": "Je legální stahovat videa z Threads?",
-  "answer": "Ano, je legální ukládat videa z Threads například kvůli opětovnému zhlédnutí nebo uchování vzpomínek. Pokud však chcete obsah dále používat, zvažte autorská práva."
-  },
-  "faq6": {
-  "question": "Vkládáte na stažená videa z Threads vodoznak?",
-  "answer": "Ne, to neděláme. Snapsave nepřidává na fotky ani klipy, které zde stáhnete, žádný vodoznak."
-  },
-  "faq7": {
-  "question": "Co mám dělat, když se nepodaří stáhnout video z Threads?",
-  "answer": "Náš nástroj může z důvodu přetížení výkonu selhávat při stahování. Zkuste to prosím znovu stisknout F5 nebo se obraťte na technickou podporu pro nápovědu."
+    "faq1": {
+      "question": "Co jsou TikTok Notes?",
+      "answer": "TikTok Notes je nová aplikace pro životní styl od TikToku určená ke sdílení fotografií cestovatelských tipů, denních receptů, vzdělávacího obsahu a dalších."
+    },
+    "faq2": {
+      "question": "Proč stahovat obrázky z TikTok Notes?",
+      "answer": "Protože TikTok Notes je novinka, může být obsah fotografií originální a inovativní. Stažením obrázků z TikTok Notes získáte vizuální zdroje pro podporu práce i studia."
+    },
+    "faq3": {
+      "question": "Je stahování obrázků z TikTok Notes zdarma?",
+      "answer": "Ano, stahování obrázků z TikTok Notes pomocí TikNotes.App je zdarma."
+    },
+    "faq4": {
+      "question": "Je bezpečné stahovat obrázky z TikTok Notes?",
+      "answer": "Ano, TikNotes.App je zcela bezpečný k použití. Není vyžadováno žádné přihlášení ani registrace."
+    },
+    "faq5": {
+      "question": "Mohu použít TikNotes.App na PC?",
+      "answer": {
+        "subtitle": "Ano. Zatímco samotné TikTok Notes je dostupné pouze na mobilních zařízeních, můžete použít TikNotes.App na počítači ke stahování obrázků podle těchto kroků:",
+        "lists": [
+          "Zkopírujte odkaz na příspěvek TikTok Notes na svém mobilním zařízení.",
+          "Pošlete si tento odkaz (např. e-mailem nebo zprávou).",
+          "Otevřete TikNotes.App v prohlížeči vašeho PC.",
+          "Vložte odkaz TikTok Notes do TikNotes.App na svém počítači.",
+          "Použijte TikNotes.App k stažení obsahu obrázků."
+        ]
+      }
+    },
+    "faq6": {
+      "question": "Jaký formát obrázků TikNotes.App podporuje?",
+      "answer": "TikNotes.App podporuje stahování obrázků ve formátu JPEG. V budoucnu zvažujeme nabídnout více formátových možností."
+    },
+    "faq7": {
+      "question": "Mohu stahovat obrázky z TikTok Notes hromadně?",
+      "answer": {
+        "subtitle": "Ne, hromadné stahování obrázků z TikTok Notes není možné. Proces funguje následovně:",
+        "lists": [
+          "Vložte jeden odkaz do TikNotes.App.",
+          "Všechny obrázky z jednoho příspěvku se načtou na obrazovku.",
+          "Každý obrázek musíte stáhnout jednotlivě."
+        ]
+      }
+    },
+    "faq8": {
+      "question": "Mohu znovu použít obrázky stažené z TikTok Notes?",
+      "answer": "Znovupoužití obrázků bez povolení může porušovat autorská práva. Doporučujeme požádat tvůrce o souhlas před opětovným použitím jakéhokoli obrázku z TikTok Notes."
+    }
   }
-  }
-  }
+}

@@ -4,26 +4,33 @@
   "clear": "Löschen",
   "download": "Herunterladen",
   "advertisement": "Werbung",
+  "opentiktoknotes": "TikTok Notes öffnen",
+  "successfully": "erfolgreich",
   "footer": {
-  "policy": "Datenschutzrichtlinie",
-  "tos": "Nutzungsbedingungen",
-  "contact": "Kontaktiere uns",
-  "blog": "Blog"
+    "policy": "Datenschutzrichtlinie",
+    "tos": "Nutzungsbedingungen",
+    "contact": "Kontakt",
+    "blog": "Blog"
   },
   "downloader": {
-  "downvid": "Video herunterladen",
-  "server": "Download-Server 01",
-  "server2": "Download-Server 02",
-  "placeholder": "Threads-Link hier einfügen",
-  "dlanothervideo": "Weiteres Video herunterladen",
-  "getiderror": "Fehler: Video-ID konnte nicht abgerufen werden.",
-  "errorapi": "Verbindung zu Threads nicht möglich, bitte versuchen Sie es später erneut",
-  "errorlinkthreads": "Ungültiger Thread-Link. Bitte überprüfen Sie ihn erneut.",
-  "errornoturl": "Ungültige URL. Bitte überprüfen Sie sie erneut.",
-  "errorinputempty": "Eingabe darf nicht leer sein, bitte geben Sie den Threads-Link in das obige Eingabefeld ein und versuchen Sie es erneut"
+    "downvid": "Video herunterladen",
+    "server": "Download-Server 01",
+    "server2": "Download-Server 02",
+    "placeholder": "Fügen Sie den TikTok Notes-Link hier ein",
+    "dlanothervideo": "Ein weiteres Video herunterladen",
+    "getiderror": "Fehler: Video-ID konnte nicht abgerufen werden.",
+    "errorapi": "Verbindung zu TikTok Notes nicht möglich, bitte versuchen Sie es später erneut",
+    "errorlinkthreads": "Ungültiger TikTok Notes-Link. Bitte überprüfen Sie erneut.",
+    "erroruserpivate": "Dieses Konto ist privat",
+    "errornoturl": "Ungültige URL. Bitte überprüfen Sie erneut.",
+    "errorinputempty": "Das Eingabefeld darf nicht leer sein. Bitte geben Sie den TikTok Notes-Link oben ein und versuchen Sie es erneut"
+  },
+  "tiktoknotes": {
+    "following": "{count} Folgen",
+    "follower": "{count} Follower"
   },
   "button": {
-  "ok": "Ok",
-  "cancel": "Abbrechen"
+    "ok": "Ok",
+    "cancel": "Abbrechen"
   }
-  }
+}

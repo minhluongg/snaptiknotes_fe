@@ -1,67 +1,79 @@
 {
-  "title": "Muat turun video Threads Pantas, Percuma & Tanpa had - Snapsave",
-  "description": "Muat turun video Threads secara percuma dalam kualiti tinggi, kelajuan pantas dan. Simpan video ke peranti anda dalam fail MP4 dengan downloader Threads terbaik.",
-  "h1": "Threads Video Downloader",
-  "h2": "Muat turun video, foto, GIF di Threads ke peranti anda ",
+  "title": "Muat Turun Gambar TikTok Notes Percuma Tanpa Tera Air - TikNotes.App",
+  "description": "Gunakan TikNotes.App untuk memuat turun foto TikTok Notes ke peranti anda tanpa tera air. Pemuat turun TikTok Notes terbaik untuk menyimpan kandungan secara percuma.",
+  "h1": "Muat Turun Foto TikTok Notes",
+  "subtitle": "Berkualiti Tinggi - Percuma untuk Digunakan Secara Online - Tanpa Tera Air",
+  "introducing": {
+    "title": "Memperkenalkan Pemuat Turun TikTok Notes",
+    "introducing1": "<a href='https://tiknotes.app/ms'>TikNotes.App</a> ialah alat untuk memuat turun gambar TikTok Notes. Walaupun TikTok Notes membenarkan pengguna menyimpan foto terus ke peranti anda, mereka meletakkan tera air pada foto.",
+    "introducing2": "Dengan pemuat turun TikTok Notes ini, katakan tidak kepada tera air pada foto. Alat ini pantas, berkualiti tinggi dan sepenuhnya berorientasikan pengguna."
+  },
   "howto": {
-  "title": "Cara memuat turun video Threads dengan SnapSave ",
-  "how1": "Salin pautan video",
-  "how1Desc": "Salin pautan/URL video Threads yang anda mahu muat turun dengan klik pada butang tiga titik",
-  "how2": "Tampal ke dalam Threads downloader",
-  "how2Desc": "Hanya tampal ke dalam bar muat turun dan klik butang muat turun ",
-  "how3": "Muat Turun",
-  "how3Desc": "Apabila video dimuat di skrin, pilih kualiti output dan teruskan untuk klik butang muat turun sekali lagi "
+    "title": "Bagaimana untuk memuat turun foto dari TikTok Notes tanpa tera air?",
+    "subtitle": "Gunakan TikNotes.App pada mudah alih atau PC melalui pelayar web untuk memuat turun foto TikTok Notes tanpa tera air. Ikuti langkah-langkah ini:",
+    "how1": "<span class='step'>Langkah 1:</span> <b>Buka</b> <a href='https://tiknotes.app/ms'>TikNotes.App</a>",
+    "how2": "<span class='step'>Langkah 2:</span> <b>Salin</b> dan <b>Tampal</b> pautan siaran dari TikTok Notes ke bar alat",
+    "how3": "<span class='step'>Langkah 3:</span> Klik pada <b>Butang Muat Turun</b> dan tunggu sehingga semua foto dari siaran dimuatkan pada skrin",
+    "how4": "<span class='step'>Langkah 4:</span> Teruskan mengklik butang <b>Muat Turun</b> di bawah setiap gambar untuk menyimpannya ke peranti anda."
   },
   "features": {
-  "title": "Downloader Threads anda yang Utama: Pantas, Stabil & Percuma",
-  "desc": "Apabila anda menyemak saluran Threads dan mendapat video yang anda mahu simpan, downloader video Threads SnapSave di sini untuk membantu. Ini adalah downloader yang anda mahukan kerana ",
-  "feature1": "Muat turun video Threads dalam kualiti MP4 HD",
-  "feature1_desc": "Downloader Threads kami menyokong muat turun video dalam kualiti 480p, 720p (HD), 1080p (Full HD). Anda juga boleh render video untuk kualiti yang lebih baik. Tetapi ia mungkin mengambil masa untuk render video yang lebih baik. ",
-  "feature2": "Muat turun pantas dan stabil dalam 3-5 saat ",
-  "feature2_desc": "Alat downloader ini juga dioptimumkan untuk kelajuan dan kestabilan muat turun. Ia mendapatkan video dengan cepat dan menyimpan dengan segera ke peranti anda tanpa masalah. ",
-  "feature3": "Muat turun video tanpa had dan sepenuhnya percuma",
-  "feature3_desc": "Tiada had pada muat turun, anda boleh muat turun sebanyak mana video yang anda mahu dan ia adalah percuma sepenuhnya. ",
-  "feature4": "Tiada akaun diperlukan",
-  "feature4_desc": "Memuat turun kandungan Threads di sini adalah selamat dan selamat. Tiada akaun atau maklumat peribadi yang diperlukan. ",
-  "feature5": "Berfungsi di PC, Android, dan iOS",
-  "feature5_desc": "Alat ini berfungsi dengan lancar di mana-mana peranti pintar termasuk Android, iOS, Windows, macOS, Linux, dan ChromeOS.",
-  "feature6": "Menyokong pelbagai bahasa ",
-  "feature6_desc": "Kami menyokong pelbagai bahasa untuk pengguna di seluruh dunia. "
+    "title": "Ciri Utama TikNotes.App",
+    "subtitle": "TikNotes.App adalah pilihan pertama untuk menyimpan foto TT Notes kerana:",
+    "feature1": "<b>Muat Turun Berkualiti Tinggi:</b> Kami mengekalkan kualiti gambar yang dimuat turun seperti asalnya. Anda akan mendapat gambar dalam resolusi HD atau Full HD yang menakjubkan.",
+    "feature2": "<b>Tanpa Tera Air:</b> Muat turun foto TikTok Notes yang bersih tanpa jenama untuk kegunaan peribadi.",
+    "feature3": "<b>Pantas dan Cekap:</b> Nikmati kelajuan muat turun yang pantas dan stabil. TikNotes.App boleh mengumpulkan semua gambar dari satu siaran dalam beberapa saat.",
+    "feature4": "<b>Mesra Pengguna:</b> Alat ini berasaskan web, mudah digunakan pada kedua-dua PC dan peranti mudah alih.",
+    "feature5": "<b>100% Percuma:</b> Tiada bayaran tersembunyi atau langganan."
   },
-  "faqTitle": "FAQ",
+  "faqTitle": "Soalan Lazim",
   "faqs": {
-  "faq1": {
-  "question": "Mengapa muat turun video dan foto Threads?",
-  "answer": "Banyak orang muda datang ke Threads untuk berkongsi cerita peribadi dengan khalayak dan pengikut tertentu melalui video. Jadi, muat turun video-video itu dan anda akan mendapat banyak kandungan eksklusif yang unik untuk ditonton semula dan dikongsi semula di Twitter, Instagram, atau Facebook."
-  },
-  "faq2": {
-  "question": "Bolehkah saya muat turun video di Threads secara langsung?",
-  "answer": "Threads hanya menyokong menyimpan dan memutar video di feed, bukan memuat turunnya secara langsung ke peranti peribadi anda. Jadi, anda memerlukan pemuat turun pihak ketiga untuk melakukannya."
-  },
-  "faq3": {
-  "question": "Bagaimana saya boleh muat turun video Threads di iPhone/Android?",
-  "answer": [
-  "Di aplikasi Threads, ketik pada simbol langsung di bawah siaran kemudian pilih salin pautan",
-  "Buka Snapsave.app melalui pelayar kemudian pilih downloader Threads ",
-  "Tampal pautan ke bar alat dan ketik butang muat turun",
-  "Ketik butang muat turun lagi kemudian simpan ke peranti anda "
-  ]
-  },
-  "faq4": {
-  "question": "Adakah pencipta tahu jika saya memuat turun kandungan mereka di Threads?",
-  "answer": "Tidak, mereka tidak tahu. Dengan pemuat turun video Threads kami, anda boleh memuat turun video, gambar, audio di Threads secara anonim."
-  },
-  "faq5": {
-  "question": "Adakah sah untuk memuat turun video Threads?",
-  "answer": "Ya, adalah sah untuk menyimpan video Threads untuk tujuan seperti menonton semula, menyimpan kenangan. Sila pertimbangkan isu hak cipta jika anda mahu menggunakan semula kandungan tersebut."
-  },
-  "faq6": {
-  "question": "Adakah anda meletakkan cap air pada video Threads yang dimuat turun?",
-  "answer": "Tidak, kami tidak melakukannya. Snapsave tidak mengenakan cap air pada foto atau klip yang anda muat turun di sini."
-  },
-  "faq7": {
-  "question": "Apa yang perlu saya lakukan jika muat turun video Threads gagal?",
-  "answer": "Alat kami mungkin menghadapi prestasi yang berlebihan, menyebabkan kegagalan muat turun. Sila cuba lagi dengan F5 atau hubungi sokongan teknikal untuk bantuan."
+    "faq1": {
+      "question": "Apa itu TikTok Notes?",
+      "answer": "TikTok Notes ialah aplikasi gaya hidup baharu yang dilancarkan oleh TikTok untuk berkongsi foto petua perjalanan, resipi harian, kandungan pendidikan dan banyak lagi."
+    },
+    "faq2": {
+      "question": "Mengapa memuat turun foto TikTok Notes?",
+      "answer": "Memandangkan TikTok Notes adalah baharu, kandungan fotonya boleh menjadi asli dan inovatif. Memuat turun foto TikTok Notes menyediakan sumber visual untuk menyokong kerja dan pembelajaran."
+    },
+    "faq3": {
+      "question": "Adakah muat turun gambar TikTok Notes percuma?",
+      "answer": "Ya, memuat turun gambar dari TikTok Notes dengan TikNotes.App adalah percuma."
+    },
+    "faq4": {
+      "question": "Adakah selamat untuk memuat turun gambar TikTok Notes?",
+      "answer": "Ya, TikNotes.App sepenuhnya selamat untuk digunakan. Tidak perlu log masuk atau pendaftaran."
+    },
+    "faq5": {
+      "question": "Bolehkah saya menggunakan TikNotes.App di PC?",
+      "answer": {
+        "subtitle": "Ya. Walaupun TikTok Notes sendiri hanya tersedia pada peranti mudah alih, anda masih boleh menggunakan TikNotes.App pada komputer anda untuk memuat turun gambar dengan mengikuti langkah-langkah ini:",
+        "lists": [
+          "Salin pautan siaran TikTok Notes pada peranti mudah alih anda.",
+          "Hantar pautan ini kepada diri anda sendiri (contohnya, melalui e-mel atau aplikasi pemesejan).",
+          "Buka TikNotes.App dalam pelayar web PC anda.",
+          "Tampal pautan TikTok Notes ke dalam TikNotes.App di PC anda.",
+          "Gunakan TikNotes.App untuk memuat turun kandungan foto."
+        ]
+      }
+    },
+    "faq6": {
+      "question": "Format gambar apakah yang disokong oleh TikNotes.App?",
+      "answer": "TikNotes.App menyokong muat turun foto dalam format JPEG. Kami sedang mempertimbangkan untuk menawarkan lebih banyak pilihan format pada masa akan datang."
+    },
+    "faq7": {
+      "question": "Bolehkah saya memuat turun foto TikTok Notes secara pukal?",
+      "answer": {
+        "subtitle": "Tidak, muat turun pukal foto TikTok Notes tidak boleh dilakukan. Prosesnya adalah seperti berikut:",
+        "lists": [
+          "Tampal satu pautan pada satu masa ke TikNotes.App.",
+          "Semua foto dari satu siaran akan dimuatkan pada skrin.",
+          "Anda perlu memuat turun setiap foto secara individu."
+        ]
+      }
+    },
+    "faq8": {
+      "question": "Bolehkah saya menggunakan semula gambar yang dimuat turun dari TikTok Notes?",
+      "answer": "Menggunakan semula gambar tanpa kebenaran boleh melanggar hak cipta pemilik. Kami mengesyorkan meminta kebenaran daripada pencipta sebelum anda menggunakan semula mana-mana gambar dari TikTok Notes."
+    }
   }
-  }
-  }
+}

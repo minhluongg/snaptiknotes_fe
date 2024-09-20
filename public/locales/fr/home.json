@@ -1,67 +1,79 @@
 {
-  "title": "Téléchargez la vidéo Threads rapide, gratuit et illimité - Snapsave",
-  "description": "Téléchargez gratuitement des vidéos Threads en haute qualité, à grande vitesse. Enregistrez les vidéos sur votre appareil au format MP4 avec le meilleur téléchargeur Threads.",
-  "h1": "Téléchargez la vidéo Threads",
-  "h2": "Téléchargez des vidéos, photos, GIF sur Threads sur votre appareil",
+  "title": "Télécharger des images TikTok Notes gratuitement sans filigrane - TikNotes.App",
+  "description": "Utilisez TikNotes.App pour télécharger des photos TikTok Notes sur votre appareil sans filigranes. Le meilleur téléchargeur TikTok Notes pour sauvegarder du contenu gratuitement.",
+  "h1": "Téléchargez des photos TikTok Notes",
+  "subtitle": "Haute qualité - Gratuit à utiliser en ligne - Sans filigrane",
+  "introducing": {
+    "title": "Présentation de TikTok Notes Downloader",
+    "introducing1": "<a href='https://tiknotes.app/fr'>TikNotes.App</a> est un outil pour télécharger des images TikTok Notes. Bien que TikTok Notes permette aux utilisateurs d’enregistrer instantanément des photos sur leur appareil, elles comportent un filigrane.",
+    "introducing2": "Avec ce téléchargeur TikTok Notes, dites non aux filigranes sur les photos. L'outil est rapide, de haute qualité et entièrement orienté vers les utilisateurs."
+  },
   "howto": {
-  "title": "Comment télécharger des vidéos Threads avec SnapSave",
-  "how1": "Copiez le lien vidéo",
-  "how1Desc": "Copiez le lien/URL de la vidéo Threads que vous souhaitez télécharger en cliquant sur le bouton à trois points",
-  "how2": "Collez-le dans le téléchargeur Threads",
-  "how2Desc": "Collez-le simplement dans la barre de téléchargement et cliquez sur le bouton de téléchargement",
-  "how3": "Télécharger",
-  "how3Desc": "Lorsque la vidéo est chargée à l'écran, sélectionnez la qualité de sortie et continuez à cliquer à nouveau sur le bouton de téléchargement"
+    "title": "Comment télécharger des photos TikTok Notes sans filigrane ?",
+    "subtitle": "Utilisez TikNotes.App sur mobile ou PC via un navigateur web pour télécharger des photos TikTok Notes sans filigrane. Suivez ces étapes :",
+    "how1": "<span class='step'>Étape 1 :</span> <b>Ouvrez</b> <a href='https://tiknotes.app/fr'>TikNotes.App</a>",
+    "how2": "<span class='step'>Étape 2 :</span> <b>Copiez</b> et <b>Collez</b> le lien du post TikTok Notes dans la barre d'outils",
+    "how3": "<span class='step'>Étape 3 :</span> Cliquez sur le <b>bouton Télécharger</b> et attendez que toutes les photos du post soient chargées à l'écran",
+    "how4": "<span class='step'>Étape 4 :</span> Continuez à cliquer sur le <b>bouton Télécharger</b> sous chaque image pour l’enregistrer sur votre appareil."
   },
   "features": {
-  "title": "Votre téléchargeur Threads préféré : Rapide, stable et gratuit",
-  "desc": "Lorsque vous parcourez le fil d'actualité Threads et que vous trouvez une vidéo que vous voulez sauvegarder, le téléchargeur vidéo Threads de SnapSave est là pour vous aider. C'est le téléchargeur que vous voulez car",
-  "feature1": "Téléchargez les vidéos Threads en qualité MP4 HD",
-  "feature1_desc": "Notre téléchargeur Threads prend en charge le téléchargement de vidéos en qualité 480p, 720p (HD), 1080p (Full HD). Vous pouvez également rendre la vidéo pour une meilleure qualité, mais cela peut prendre plus de temps.",
-  "feature2": "Téléchargement rapide et stable en 3-5 secondes",
-  "feature2_desc": "Cet outil de téléchargement est également optimisé pour la vitesse et la stabilité du téléchargement. Il récupère rapidement la vidéo et la sauve instantanément sur votre appareil sans encombre.",
-  "feature3": "Téléchargement vidéo illimité et totalement gratuit",
-  "feature3_desc": "Pas de limitation de téléchargement, vous pouvez télécharger autant de vidéos que vous le souhaitez et c'est complètement gratuit.",
-  "feature4": "Pas de compte requis",
-  "feature4_desc": "Télécharger les contenus Threads ici est en fait sûr et sécurisé. Aucun compte ou information personnelle n'est requis.",
-  "feature5": "Fonctionne sur PC, Android et iOS",
-  "feature5_desc": "L'outil fonctionne sans problème sur n'importe quel appareil intelligent, y compris Android, iOS, Windows, macOS, Linux et ChromeOS.",
-  "feature6": "Prise en charge de plusieurs langues",
-  "feature6_desc": "Nous prenons en charge plusieurs langues pour les utilisateurs du monde entier."
+    "title": "Principales fonctionnalités de TikNotes.App",
+    "subtitle": "TikNotes.App est la première option pour enregistrer des photos TikTok Notes parce que :",
+    "feature1": "<b>Téléchargement de haute qualité :</b> Nous préservons la qualité des photos téléchargées comme à l'original. Vous aurez des images avec une résolution impressionnante en HD ou Full HD.",
+    "feature2": "<b>Sans filigrane :</b> Téléchargez des photos TikTok Notes propres et sans marque pour un usage personnel.",
+    "feature3": "<b>Rapide et efficace :</b> Profitez d'une vitesse de téléchargement rapide et stable. TikNotes.App peut collecter toutes les images d'un post en quelques secondes.",
+    "feature4": "<b>Convivial :</b> Cet outil est basé sur le web, facile à utiliser à la fois sur PC et sur mobile.",
+    "feature5": "<b>100 % gratuit :</b> Aucun frais caché ni abonnement."
   },
-  "faqTitle": "FAQ",
+  "faqTitle": "Questions fréquemment posées",
   "faqs": {
-  "faq1": {
-  "question": "Pourquoi devrais-je télécharger des vidéos et des photos Threads ?",
-  "answer": "De nombreux jeunes viennent sur Threads pour partager une histoire privée avec des publics et des abonnés spécifiques à travers des vidéos. Donc, téléchargez ces vidéos et vous obtiendrez beaucoup de contenu exclusif unique à revoir et à reposer sur Twitter, Instagram ou Facebook."
-  },
-  "faq2": {
-  "question": "Puis-je télécharger directement une vidéo sur Threads ?",
-  "answer": "Threads ne prend en charge que l'enregistrement et la lecture d'une vidéo dans le fil d'actualité, pas le téléchargement direct sur votre appareil personnel. Vous avez donc besoin d'un téléchargeur tiers Threads pour le faire."
-  },
-  "faq3": {
-  "question": "Comment puis-je télécharger une vidéo Threads sur iPhone/Android ?",
-  "answer": [
-  "Dans l'application Threads, appuyez sur le symbole direct sous la publication, puis choisissez copier le lien",
-  "Ouvrez Snapsave.app via un navigateur, puis choisissez le téléchargeur Threads",
-  "Collez le lien dans la barre d'outils et appuyez sur le bouton de téléchargement",
-  "Appuyez à nouveau sur le bouton de téléchargement, puis enregistrez-le sur votre appareil"
-  ]
-  },
-  "faq4": {
-  "question": "Les créateurs savent-ils si j'ai téléchargé leur contenu sur Threads ?",
-  "answer": "Non, ils ne le savent pas. Avec notre téléchargeur vidéo Threads, vous pouvez télécharger des vidéos, des images, de l'audio sur Threads de manière anonyme."
-  },
-  "faq5": {
-  "question": "Est-il légal de télécharger des vidéos Threads ?",
-  "answer": "Oui, il est légal d'enregistrer des vidéos Threads à des fins comme le réécoute, la sauvegarde des souvenirs. Veuillez tenir compte des questions de droits d'auteur si vous souhaitez réutiliser le contenu."
-  },
-  "faq6": {
-  "question": "Appliquez-vous des filigranes sur les vidéos Threads téléchargées ?",
-  "answer": "Non, nous ne le faisons pas. Snapsave n'impose pas de filigrane sur les photos ou les clips que vous téléchargez ici."
-  },
-  "faq7": {
-  "question": "Que dois-je faire si le téléchargement d'une vidéo Threads échoue ?",
-  "answer": "Notre outil peut rencontrer des performances en surcharge, entraînant un échec du téléchargement. Veuillez réessayer en appuyant sur F5 ou contacter l'assistance technique pour obtenir de l'aide."
+    "faq1": {
+      "question": "Qu'est-ce que TikTok Notes ?",
+      "answer": "TikTok Notes est une nouvelle application lifestyle lancée par TikTok pour partager des photos de conseils de voyage, des recettes quotidiennes, du contenu éducatif et plus encore."
+    },
+    "faq2": {
+      "question": "Pourquoi télécharger des photos TikTok Notes ?",
+      "answer": "Comme TikTok Notes est nouveau, le contenu photo peut être original et novateur. Télécharger des photos TikTok Notes fournit des ressources visuelles pour soutenir à la fois le travail et les études."
+    },
+    "faq3": {
+      "question": "Est-il gratuit de télécharger des images TikTok Notes ?",
+      "answer": "Oui, il est gratuit de télécharger des images TikTok Notes avec TikNotes.App."
+    },
+    "faq4": {
+      "question": "Est-il sûr de télécharger des images TikTok Notes ?",
+      "answer": "Oui, TikNotes.App est totalement sûr à utiliser. Aucune connexion ou inscription n'est requise."
+    },
+    "faq5": {
+      "question": "Puis-je utiliser TikNotes.App sur un PC ?",
+      "answer": {
+        "subtitle": "Oui. Bien que TikTok Notes soit disponible uniquement sur les appareils mobiles, vous pouvez toujours utiliser TikNotes.App sur votre ordinateur pour télécharger des images en suivant ces étapes :",
+        "lists": [
+          "Copiez le lien de la publication TikTok Notes sur votre appareil mobile.",
+          "Envoyez ce lien à vous-même (par exemple, par e-mail ou application de messagerie).",
+          "Ouvrez TikNotes.App dans le navigateur web de votre PC.",
+          "Collez le lien TikTok Notes dans TikNotes.App sur votre PC.",
+          "Utilisez TikNotes.App pour télécharger le contenu des images."
+        ]
+      }
+    },
+    "faq6": {
+      "question": "Quel format d'image prend en charge TikNotes.App ?",
+      "answer": "TikNotes.App prend en charge le téléchargement de photos au format JPEG. Nous envisageons d'offrir plus d'options de format dans un futur proche."
+    },
+    "faq7": {
+      "question": "Puis-je télécharger des photos TikTok Notes en masse ?",
+      "answer": {
+        "subtitle": "Non, le téléchargement en masse des photos TikTok Notes n'est pas possible. Le processus fonctionne comme suit :",
+        "lists": [
+          "Collez un lien à la fois dans TikNotes.App.",
+          "Toutes les photos d'un post seront chargées à l'écran.",
+          "Vous devez télécharger chaque photo individuellement."
+        ]
+      }
+    },
+    "faq8": {
+      "question": "Puis-je réutiliser les images téléchargées depuis TikTok Notes ?",
+      "answer": "Réutiliser des images sans permission peut violer les droits d'auteur. Nous vous recommandons de demander l'autorisation du créateur avant de réutiliser toute image de TikTok Notes."
+    }
   }
-  }
-  }
+}

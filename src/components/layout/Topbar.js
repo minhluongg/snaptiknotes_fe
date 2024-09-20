@@ -48,7 +48,7 @@ const Topbar = () => {
           </button>
           {langOpen && (
             <div
-              className="z-50 my-4 text-base list-none bg-white divide-y divide-gray-100 rounded-lg shadow"
+              className="absolute right-0 z-50 my-4 text-base list-none bg-white divide-y divide-gray-100 rounded-lg shadow top-6 rtl:left-0 rtl:right-auto"
               id="language-dropdown-menu"
             >
               <ul className="grid py-2 font-medium list-lang" role="none">

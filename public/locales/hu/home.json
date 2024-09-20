@@ -1,67 +1,79 @@
 {
-  "title": "Threads Videó Letöltő - Gyors, Ingyenes és Korlátlan - Snapsave",
-  "description": "Töltsön le ingyenesen Threads videókat nagy felbontásban, gyors sebességgel. Mentse a videókat MP4 formátumban a legjobb Threads letöltővel.",
-  "h1": "Threads Videó Letöltő",
-  "h2": "Töltse le a Threads videókat, fotókat, GIF-eket az eszközére",
+  "title": "TikTok Notes képek letöltése vízjel nélkül ingyen - TikNotes.App",
+  "description": "Használd a TikNotes.App-ot TikTok Notes képek letöltéséhez a készülékedre vízjel nélkül. A legjobb TikTok Notes letöltő az ingyenes tartalommentéshez.",
+  "h1": "TikTok Notes képek letöltése",
+  "subtitle": "Magas minőség - Ingyenes online használat - Vízjel nélkül",
+  "introducing": {
+    "title": "Bemutatjuk a TikTok Notes Letöltőt",
+    "introducing1": "<a href='https://tiknotes.app/hu'>TikNotes.App</a> egy eszköz TikTok Notes képek letöltéséhez. Bár a TikTok Notes lehetővé teszi, hogy a felhasználók azonnal mentsék a képeket a készülékükre, vízjelet helyeznek el a képeken.",
+    "introducing2": "Ezzel a TikTok Notes letöltővel mondj nemet a vízjelekre a képeken. Az eszköz gyors, kiváló minőségű letöltést kínál, és teljes mértékben a felhasználókra összpontosít."
+  },
   "howto": {
-  "title": "Hogyan lehet letölteni Threads videókat a SnapSave-vel",
-  "how1": "Másolja le a videó linkjét",
-  "how1Desc": "Másolja le a letölteni kívánt Threads videó linkjét/URL-jét a három pontos gomb megnyomásával",
-  "how2": "Illessze be a Threads letöltőbe",
-  "how2Desc": "Egyszerűen illessze be a letöltési sávba és kattintson a letöltés gombra",
-  "how3": "Letöltés",
-  "how3Desc": "Amikor a videó betöltődött a képernyőre, válassza ki a kimeneti minőséget, és folytassa a letöltés gomb újbóli megnyomásával"
+    "title": "Hogyan lehet letölteni a képeket a TikTok Notes-ról vízjel nélkül?",
+    "subtitle": "Használd a TikNotes.App-ot mobilon vagy PC-n egy webböngészőn keresztül, hogy letölthesd a TikTok Notes képeit vízjel nélkül. Kövesd ezeket a lépéseket:",
+    "how1": "<span class='step'>1. lépés:</span> <b>Nyisd meg</b> a <a href='https://tiknotes.app/hu'>TikNotes.App</a>-ot",
+    "how2": "<span class='step'>2. lépés:</span> <b>Másold</b> és <b>Illeszd be</b> a TikTok Notes bejegyzés linkjét az eszköztárba",
+    "how3": "<span class='step'>3. lépés:</span> Kattints a <b>Letöltés gombra</b> és várj, amíg az összes kép betöltődik a képernyőn",
+    "how4": "<span class='step'>4. lépés:</span> Folytasd a kattintást a <b>Letöltés gombra</b> minden egyes kép alatt, hogy elmentsd azokat a készülékedre."
   },
   "features": {
-  "title": "Az Ön választása: Gyors, Stabil és Ingyenes Threads Letöltő",
-  "desc": "Amikor böngészi a Threads hírfolyamot, és olyan videót talál, amit meg szeretne menteni, a SnapSave Threads videó letöltője itt van, hogy segítsen. Ez az a letöltő, amit Ön is szeretne, mert",
-  "feature1": "Töltse le a Threads videókat MP4 HD minőségben",
-  "feature1_desc": "A Threads letöltőnk támogatja a videók 480p, 720p (HD), 1080p (Full HD) minőségű letöltését. Ennél jobb minőségre is lehetősége van, de az több időt vehet igénybe.",
-  "feature2": "Gyors és stabil letöltés 3-5 másodperc alatt",
-  "feature2_desc": "A letöltő eszköz optimalizálva van a letöltési sebesség és stabilitás szempontjából. Gyorsan lekéri a videót, és probléma nélkül menti közvetlenül az eszközére.",
-  "feature3": "Korlátlan és teljesen ingyenes videó letöltés",
-  "feature3_desc": "Nincs letöltési korlátozás, tetszőleges számú videót letölthet, és az teljesen ingyenes.",
-  "feature4": "Nem szükséges fiók",
-  "feature4_desc": "A Threads tartalmak letöltése itt teljesen biztonságos. Nem szükséges fiók vagy személyes adatok megadása.",
-  "feature5": "Működik PC-n, Androidon és iOS-en is",
-  "feature5_desc": "Az eszköz gond nélkül működik bármilyen okoseszközön, beleértve az Androidot, iOS-t, Windowst, macOS-t, Linuxot és ChromeOS-t.",
-  "feature6": "Több nyelvet támogat",
-  "feature6_desc": "Több nyelvet támogatunk a világ minden tájáról érkező felhasználók számára."
+    "title": "TikNotes.App kulcsfontosságú funkciói",
+    "subtitle": "A TikNotes.App az első számú választás a TikTok Notes képek mentéséhez, mert:",
+    "feature1": "<b>Magas minőségű letöltés:</b> Az eredetihez hasonlóan megőrizzük a letöltött képek minőségét. Lenyűgöző HD vagy Full HD felbontású képeket kapsz.",
+    "feature2": "<b>Vízjelmentes:</b> Tisztán letölthető, márkajelzés nélküli TikTok Notes képek személyes használatra.",
+    "feature3": "<b>Gyors és hatékony:</b> Élvezd a gyors és stabil letöltési sebességet. A TikNotes.App képes másodpercek alatt összegyűjteni az összes képet egy bejegyzésből.",
+    "feature4": "<b>Felhasználóbarát:</b> Az eszköz webalapú, egyszerűen használható mind PC-n, mind mobil eszközön.",
+    "feature5": "<b>100%-ban ingyenes:</b> Nincsenek rejtett költségek vagy előfizetések."
   },
-  "faqTitle": "GYIK",
+  "faqTitle": "Gyakran Ismételt Kérdések",
   "faqs": {
-  "faq1": {
-  "question": "Miért kellene letöltenem Threads videókat és fotókat?",
-  "answer": "Sok fiatal ember azért jön a Threads-re, hogy videók segítségével privát történeteket osszon meg bizonyos közönséggel és követőkkel. Ha letölti ezeket a videókat, egyedi és exkluzív tartalmakhoz juthat, melyeket később újranézhetsz, illetve megoszthatsz a Twitteren, Instagramon vagy a Facebookon."
-  },
-  "faq2": {
-  "question": "Közvetlenül letölthetek videót a Threads-ről?",
-  "answer": "A Threads csak a videók mentését és lejátszását támogatja a hírfolyamban, de nem teszi lehetővé a közvetlen letöltést a személyes eszközre. Ezért harmadik féltől származó Threads letöltőre van szüksége."
-  },
-  "faq3": {
-  "question": "Hogyan tölthetek le Threads videót iPhone/Android-on?",
-  "answer": [
-  "A Threads alkalmazásban kattintson a közvetlen szimbólumra a bejegyzés alatt, majd válassza a link másolása lehetőséget",
-  "Nyissa meg a Snapsave.app-et böngészőn keresztül, majd válassza a Threads letöltőt",
-  "Illessze be a linket az eszköztárba, és kattintson a letöltés gombra",
-  "Kattintson ismét a letöltés gombra, majd mentse el az eszközére"
-  ]
-  },
-  "faq4": {
-  "question": "Tudják a készítők, ha letöltöm az ő tartalmukat a Threads-ről?",
-  "answer": "Nem, nem tudják. A Threads videó letöltőnkkel anonim módon töltheted le a videókat, képeket és hanganyagokat a Threads-ről."
-  },
-  "faq5": {
-  "question": "Legális-e letölteni Threads videókat?",
-  "answer": "Igen, legális a Threads videók mentése újranézés vagy emlékek céljából. Vegye figyelembe a szerzői jogi kérdéseket, ha újra fel szeretné használni a tartalmat."
-  },
-  "faq6": {
-  "question": "Vízjelezzük a letöltött Threads videókat?",
-  "answer": "Nem, nem teszünk rájuk vízjelet. A Snapsave nem helyez el vízjelet a nálunk letöltött fotókon vagy klipeken."
-  },
-  "faq7": {
-  "question": "Mit tegyek, ha egy Threads videó letöltése meghiúsul?",
-  "answer": "Előfordulhat, hogy eszközünk túlterheltség miatt nem tudja végrehajtani a letöltést. Kérjük, próbálja újra az F5 gombbal, vagy forduljon a műszaki támogatáshoz segítségért."
+    "faq1": {
+      "question": "Mik azok a TikTok Notes?",
+      "answer": "A TikTok Notes egy új életmód alkalmazás, amelyet a TikTok indított el, hogy utazási tippeket, napi recepteket, oktatási tartalmakat és sok mást osszon meg képeken keresztül."
+    },
+    "faq2": {
+      "question": "Miért érdemes letölteni a TikTok Notes képeket?",
+      "answer": "Mivel a TikTok Notes új, a képek tartalma eredeti és úttörő lehet. A TikTok Notes képek letöltése vizuális erőforrásokat biztosít a munka és a tanulás támogatásához."
+    },
+    "faq3": {
+      "question": "Ingyenes a TikTok Notes képek letöltése?",
+      "answer": "Igen, a TikNotes.App segítségével ingyen letölthetők a képek a TikTok Notes-ról."
+    },
+    "faq4": {
+      "question": "Biztonságos a TikTok Notes képek letöltése?",
+      "answer": "Igen, a TikNotes.App teljesen biztonságos a használathoz. Nem szükséges bejelentkezés vagy regisztráció."
+    },
+    "faq5": {
+      "question": "Használhatom a TikNotes.App-ot PC-n?",
+      "answer": {
+        "subtitle": "Igen. Míg a TikTok Notes maga csak mobil eszközökön érhető el, a TikNotes.App-ot számítógépen is használhatod képek letöltéséhez az alábbi lépések szerint:",
+        "lists": [
+          "Másolja ki a TikTok Notes bejegyzés linkjét a mobileszközén.",
+          "Küldd el magadnak ezt a linket (például e-mailben vagy üzenetküldő alkalmazáson keresztül).",
+          "Nyisd meg a TikNotes.App-ot a PC-d webböngészőjében.",
+          "Illessze be a TikTok Notes linket a TikNotes.App-ba a számítógépén.",
+          "Használd a TikNotes.App-ot a képtartalom letöltéséhez."
+        ]
+      }
+    },
+    "faq6": {
+      "question": "Milyen képformátumot támogat a TikNotes.App?",
+      "answer": "A TikNotes.App a képek JPEG formátumban történő letöltését támogatja. Fontolóra vesszük további formátumok kínálatát a közeljövőben."
+    },
+    "faq7": {
+      "question": "Tudok egyszerre több TikTok Notes képet is letölteni?",
+      "answer": {
+        "subtitle": "Nem, a TikTok Notes képek tömeges letöltése nem lehetséges. A folyamat a következő:",
+        "lists": [
+          "Egy időben egy linket illessz be a TikNotes.App-ba.",
+          "Minden kép egy adott bejegyzésből megjelenik a képernyőn.",
+          "Minden képet külön kell letöltened."
+        ]
+      }
+    },
+    "faq8": {
+      "question": "Újra felhasználhatom a TikTok Notes-ról letöltött képeket?",
+      "answer": "A képek engedély nélküli újrafelhasználása megsértheti a szerzői jogokat. Azt javasoljuk, hogy kérd meg a készítőt az engedélyre, mielőtt újrafelhasználod a TikTok Notes bármelyik képét."
+    }
   }
-  }
-  }
+}

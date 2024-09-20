@@ -1,30 +1,36 @@
-
 {
-"close": "Tutup",
-"paste": "Tampal",
-"clear": "Kosongkan",
-"download": "Muat turun",
-"advertisement": "Iklan",
-"footer": {
-"policy": "Dasar Privasi",
-"tos": "Terma Perkhidmatan",
-"contact": "Hubungi Kami",
-"blog": "Blog"
-},
-"downloader": {
-"downvid": "Muat Turun Video",
-"server": "Muat Turun server 01",
-"server2": "Muat Turun server 02",
-"placeholder": "Tampal pautan Threads di sini",
-"dlanothervideo": "Muat turun video lain",
-"getiderror": "Ralat: Tidak dapat mendapatkan ID Video.",
-"errorapi": "Tidak dapat berhubung dengan Threads, sila cuba lagi kemudian",
-"errorlinkthreads": "Pautan thread tidak sah. Sila periksa lagi.",
-"errornoturl": "URL tidak sah. Sila periksa lagi.",
-"errorinputempty": "input tidak boleh kosong, sila masukkan pautan threads ke dalam kotak input di atas dan cuba lagi"
-},
-"button": {
-"ok": "Ok",
-"cancel": "Batal"
-}
+  "close": "Tutup",
+  "paste": "Tampal",
+  "clear": "Padam",
+  "download": "Muat Turun",
+  "advertisement": "Iklan",
+  "opentiktoknotes": "Buka TikTok Notes",
+  "successfully": "berjaya",
+  "footer": {
+    "policy": "Dasar Privasi",
+    "tos": "Terma Perkhidmatan",
+    "contact": "Hubungi Kami",
+    "blog": "Blog"
+  },
+  "downloader": {
+    "downvid": "Muat Turun Video",
+    "server": "Muat Turun Pelayan 01",
+    "server2": "Muat Turun Pelayan 02",
+    "placeholder": "Tampalkan pautan TikTok Notes di sini",
+    "dlanothervideo": "Muat turun video lain",
+    "getiderror": "Ralat: Tidak dapat mendapatkan ID Video.",
+    "errorapi": "Tidak dapat menyambung ke TikTok Notes, sila cuba lagi nanti",
+    "errorlinkthreads": "Pautan TikTok Notes tidak sah. Sila semak semula.",
+    "erroruserpivate": "Akaun ini adalah peribadi",
+    "errornoturl": "URL tidak sah. Sila semak semula.",
+    "errorinputempty": "Input tidak boleh kosong, sila masukkan pautan TikTok Notes ke dalam kotak input di atas dan cuba lagi"
+  },
+  "tiktoknotes": {
+    "following": "{count} Mengikuti",
+    "follower": "{count} Pengikut"
+  },
+  "button": {
+    "ok": "Ok",
+    "cancel": "Batal"
+  }
 }

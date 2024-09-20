@@ -4,26 +4,33 @@
   "clear": "Wissen",
   "download": "Downloaden",
   "advertisement": "Advertentie",
+  "opentiktoknotes": "Open TikTok Notes",
+  "successfully": "succesvol",
   "footer": {
-  "policy": "Privacybeleid",
-  "tos": "Gebruiksvoorwaarden",
-  "contact": "Neem contact op",
-  "blog": "Blog"
+    "policy": "Privacybeleid",
+    "tos": "Gebruiksvoorwaarden",
+    "contact": "Neem contact met ons op",
+    "blog": "Blog"
   },
   "downloader": {
-  "downvid": "Video downloaden",
-  "server": "Download server 01",
-  "server2": "Download server 02",
-  "placeholder": "Plak hier de Threads-link",
-  "dlanothervideo": "Nog een video downloaden",
-  "getiderror": "Fout: Kan video-ID niet ophalen.",
-  "errorapi": "Kan geen verbinding maken met Threads, probeer het later opnieuw",
-  "errorlinkthreads": "Ongeldige thread-link. Controleer het opnieuw.",
-  "errornoturl": "Ongeldige URL. Controleer het opnieuw.",
-  "errorinputempty": "invoer mag niet leeg zijn, voer de threads-link in het bovenstaande invoerveld in en probeer het opnieuw"
+    "downvid": "Video downloaden",
+    "server": "Download server 01",
+    "server2": "Download server 02",
+    "placeholder": "Plak hier de TikTok Notes-link",
+    "dlanothervideo": "Download een andere video",
+    "getiderror": "Fout: Kan de video-ID niet ophalen.",
+    "errorapi": "Kan geen verbinding maken met TikTok Notes, probeer het later opnieuw",
+    "errorlinkthreads": "Ongeldige TikTok Notes-link. Controleer het nogmaals.",
+    "erroruserpivate": "Dit account is privé",
+    "errornoturl": "Ongeldige URL. Controleer het nogmaals.",
+    "errorinputempty": "De invoer mag niet leeg zijn, voer de TikTok Notes-link in het invoervak hierboven in en probeer het opnieuw"
+  },
+  "tiktoknotes": {
+    "following": "{count} Volgend",
+    "follower": "{count} Volgers"
   },
   "button": {
-  "ok": "Ok",
-  "cancel": "Annuleren"
+    "ok": "Ok",
+    "cancel": "Annuleren"
   }
-  }
+}

@@ -4,23 +4,30 @@
   "clear": "Wyczyść",
   "download": "Pobierz",
   "advertisement": "Reklama",
+  "opentiktoknotes": "Otwórz TikTok Notes",
+  "successfully": "pomyślnie",
   "footer": {
     "policy": "Polityka prywatności",
-    "tos": "Warunki użytkowania",
+    "tos": "Warunki usługi",
     "contact": "Skontaktuj się z nami",
     "blog": "Blog"
   },
   "downloader": {
     "downvid": "Pobierz wideo",
-    "server": "Pobierz serwer 01",
-    "server2": "Pobierz serwer 02",
-    "placeholder": "Wklej tutaj link do Threads",
+    "server": "Serwer pobierania 01",
+    "server2": "Serwer pobierania 02",
+    "placeholder": "Wklej tutaj link do TikTok Notes",
     "dlanothervideo": "Pobierz inne wideo",
-    "getiderror": "Błąd: Nie udało się uzyskać ID wideo.",
-    "errorapi": "Nie można połączyć się z Threads, spróbuj ponownie później",
-    "errorlinkthreads": "Nieprawidłowy link do wątku. Sprawdź ponownie.",
-    "errornoturl": "Nieprawidłowy URL. Sprawdź ponownie.",
-    "errorinputempty": "Pole nie może być puste, wprowadź link do wątku w polu powyżej i spróbuj ponownie"
+    "getiderror": "Błąd: Nie można pobrać identyfikatora wideo.",
+    "errorapi": "Nie można połączyć się z TikTok Notes, spróbuj ponownie później",
+    "errorlinkthreads": "Nieprawidłowy link TikTok Notes. Sprawdź ponownie.",
+    "erroruserpivate": "To konto jest prywatne",
+    "errornoturl": "Nieprawidłowy adres URL. Sprawdź ponownie.",
+    "errorinputempty": "Pole nie może być puste, wprowadź link TikTok Notes do pola powyżej i spróbuj ponownie"
+  },
+  "tiktoknotes": {
+    "following": "{count} Obserwowanie",
+    "follower": "{count} Obserwujący"
   },
   "button": {
     "ok": "Ok",

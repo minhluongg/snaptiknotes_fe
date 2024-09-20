@@ -3,27 +3,34 @@
   "paste": "Beillesztés",
   "clear": "Törlés",
   "download": "Letöltés",
-  "advertisement": "Hirdetés",
+  "advertisement": "Reklám",
+  "opentiktoknotes": "TikTok Notes megnyitása",
+  "successfully": "sikeresen",
   "footer": {
-  "policy": "Adatvédelmi szabályzat",
-  "tos": "Szolgáltatási feltételek",
-  "contact": "Kapcsolat",
-  "blog": "Blog"
+    "policy": "Adatvédelmi irányelvek",
+    "tos": "Szolgáltatási feltételek",
+    "contact": "Kapcsolat",
+    "blog": "Blog"
   },
   "downloader": {
-  "downvid": "Videó letöltése",
-  "server": "Letöltési szerver 01",
-  "server2": "Letöltési szerver 02",
-  "placeholder": "Illessze be a Threads linket ide",
-  "dlanothervideo": "Másik videó letöltése",
-  "getiderror": "Hiba: Nem sikerült lekérni a videó azonosítóját.",
-  "errorapi": "Nem lehet kapcsolódni a Threads-hez, próbálja újra később",
-  "errorlinkthreads": "Érvénytelen thread link. Kérjük, ellenőrizze újra.",
-  "errornoturl": "Érvénytelen URL. Kérjük, ellenőrizze újra.",
-  "errorinputempty": "a bemeneti mező nem lehet üres, kérjük, írja be a threads linket a fenti beviteli mezőbe és próbálja újra"
+    "downvid": "Videó letöltése",
+    "server": "Szerver letöltése 01",
+    "server2": "Szerver letöltése 02",
+    "placeholder": "Illessze be ide a TikTok Notes hivatkozást",
+    "dlanothervideo": "Töltsön le egy másik videót",
+    "getiderror": "Hiba: Nem sikerült megszerezni a videóazonosítót.",
+    "errorapi": "Nem sikerült csatlakozni a TikTok Notes-hoz, próbálkozzon később",
+    "errorlinkthreads": "Érvénytelen TikTok Notes hivatkozás. Kérjük, ellenőrizze újra.",
+    "erroruserpivate": "Ez a fiók privát",
+    "errornoturl": "Érvénytelen URL. Kérjük, ellenőrizze újra.",
+    "errorinputempty": "A bemeneti mező nem lehet üres, kérjük, írja be a TikTok Notes linket a fenti mezőbe, és próbálkozzon újra"
+  },
+  "tiktoknotes": {
+    "following": "{count} Követés",
+    "follower": "{count} Követők"
   },
   "button": {
-  "ok": "Ok",
-  "cancel": "Mégse"
+    "ok": "Ok",
+    "cancel": "Mégse"
   }
-  }
+}

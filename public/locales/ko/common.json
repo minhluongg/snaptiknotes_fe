@@ -4,26 +4,33 @@
   "clear": "지우기",
   "download": "다운로드",
   "advertisement": "광고",
+  "opentiktoknotes": "TikTok Notes 열기",
+  "successfully": "성공적으로",
   "footer": {
-  "policy": "개인정보 정책",
-  "tos": "이용 약관",
-  "contact": "문의하기",
-  "blog": "블로그"
+    "policy": "개인정보 처리방침",
+    "tos": "서비스 이용 약관",
+    "contact": "문의하기",
+    "blog": "블로그"
   },
   "downloader": {
-  "downvid": "동영상 다운로드",
-  "server": "다운로드 서버 01",
-  "server2": "다운로드 서버 02",
-  "placeholder": "스레드 링크를 여기에 붙여넣으세요",
-  "dlanothervideo": "다른 동영상 다운로드",
-  "getiderror": "오류: 비디오 ID를 가져올 수 없습니다.",
-  "errorapi": "Threads에 연결할 수 없습니다. 나중에 다시 시도해 주세요",
-  "errorlinkthreads": "잘못된 스레드 링크입니다. 다시 확인해 주세요.",
-  "errornoturl": "잘못된 URL입니다. 다시 확인해 주세요.",
-  "errorinputempty": "입력란을 비워둘 수 없습니다. 위의 입력란에 스레드 링크를 입력하고 다시 시도해 주세요."
+    "downvid": "비디오 다운로드",
+    "server": "서버 다운로드 01",
+    "server2": "서버 다운로드 02",
+    "placeholder": "여기에 TikTok Notes 링크를 붙여넣으세요",
+    "dlanothervideo": "다른 비디오 다운로드",
+    "getiderror": "오류: 비디오 ID를 가져올 수 없습니다.",
+    "errorapi": "TikTok Notes에 연결할 수 없습니다. 나중에 다시 시도하십시오",
+    "errorlinkthreads": "유효하지 않은 TikTok Notes 링크입니다. 다시 확인해 주세요.",
+    "erroruserpivate": "이 계정은 비공개입니다",
+    "errornoturl": "유효하지 않은 URL입니다. 다시 확인해 주세요.",
+    "errorinputempty": "입력이 비어 있을 수 없습니다. 상단의 입력 상자에 TikTok Notes 링크를 입력하고 다시 시도해 주세요"
+  },
+  "tiktoknotes": {
+    "following": "{count} 팔로잉",
+    "follower": "{count} 팔로워"
   },
   "button": {
-  "ok": "확인",
-  "cancel": "취소"
+    "ok": "확인",
+    "cancel": "취소"
   }
-  }
+}
