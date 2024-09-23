@@ -70,23 +70,23 @@ const LayoutMain = ({ children, customMeta, meta }) => {
           property="og:site_name"
           content={meta?.title || "TikTok Notes Downloader | TikNotes.App"}
         />
-        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/logo/favicon.ico" />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/favicon/apple-icon-180x180.jpg"
+          href="/logo/apple-icon-180x180.jpg"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/favicon/favicon-32x32.png"
+          href="/logo/favicon-32x32.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/favicon/favicon-16x16.png"
+          href="/logo/favicon-16x16.png"
         />
         <meta property="og:image" content="/preview.jpg" />
         <link
