@@ -48,3 +48,12 @@ export default function Contact() {
     </LayoutMain>
   );
 }
+
+export function middleware(req) {
+  if (
+    process.env.DEFAULT_LOCALE &&
+    process.env.DEFAULT_LOCALE !== req.nextUrl.locale
+  ) {
+    return NextResponse.redirect(req.nextUrl.origin + "/404");
+  }
+}

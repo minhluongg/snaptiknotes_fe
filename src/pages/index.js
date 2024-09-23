@@ -14,6 +14,7 @@ export default function Home() {
         title: home("title"),
         description: home("description"),
       }}
+      multiLang={true}
     >
       <HeroDownloader></HeroDownloader>
       <ShowResult></ShowResult>

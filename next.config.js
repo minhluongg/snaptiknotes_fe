@@ -7,9 +7,10 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: "/en",
-        destination: "/",
-        permanent: true,
+        source: "/vi/static/contact-us",
+        destination: "/static/contact-us",
+        permanent: false,
+        locale: false,
       },
     ];
   },

@@ -15,7 +15,7 @@ const inter = Inter({
   subsets: ["latin", "latin-ext", "vietnamese"],
 });
 
-const LayoutMain = ({ children, customMeta, meta }) => {
+const LayoutMain = ({ children, customMeta, meta, multiLang = false }) => {
   const NEXT_PUBLIC_GOOGLE_ANALYTICS = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS;
   const router = useRouter();
   return (
@@ -107,13 +107,22 @@ const LayoutMain = ({ children, customMeta, meta }) => {
             {...{ hrefLang: item.code }}
           />
         ))}
+        {multiLang ? (
+          <link
+            rel="canonical"
+            href={`https://tiknotes.app${
+              router.locale === "en" ? "" : `/${router.locale}`
+            }${router.route == "/" ? "" : router.route}`}
+          />
+        ) : (
+          <link
+            rel="canonical"
+            href={`https://tiknotes.app${
+              router.route == "/" ? "" : router.route
+            }`}
+          />
+        )}
 
-        <link
-          rel="canonical"
-          href={`https://tiknotes.app${
-            router.locale === "en" ? "" : `/${router.locale}`
-          }${router.route == "/" ? "" : router.route}`}
-        />
         {customMeta}
       </Head>
       <Script

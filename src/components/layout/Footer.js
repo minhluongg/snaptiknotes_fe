@@ -15,7 +15,7 @@ const Footer = () => {
               <ul className="font-medium text-gray-500">
                 <li className="mb-4">
                   <Link
-                    href={{ pathname: "/contact-us" }}
+                    href={{ pathname: "/static/contact-us" }}
                     locale="en"
                     className="hover:underline"
                   >
@@ -31,7 +31,7 @@ const Footer = () => {
               <ul className="font-medium text-gray-500">
                 <li className="mb-4">
                   <Link
-                    href={{ pathname: "/privacy-policy" }}
+                    href={{ pathname: "/static/privacy-policy" }}
                     locale="en"
                     className="hover:underline"
                   >
@@ -40,7 +40,7 @@ const Footer = () => {
                 </li>
                 <li className="mb-4">
                   <Link
-                    href={{ pathname: "/terms-of-service" }}
+                    href={{ pathname: "/static/terms-of-service" }}
                     locale="en"
                     className="hover:underline"
                   >
@@ -64,9 +64,8 @@ const Footer = () => {
           </div>
           <div className="px-4 py-6 mb-4 rounded-lg shadow">
             <span className="block text-sm text-center text-gray-500">
-              © 2024{" "}
-              <a href="https://threads.snapsave.app/">SnaptikNotes.App™</a>. All
-              Rights Reserved.
+              © 2024 <Link href={{ pathname: "/" }}>SnaptikNotes.App™</Link>.
+              All Rights Reserved.
             </span>
           </div>
         </div>
