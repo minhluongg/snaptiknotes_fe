@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import SchemaSite from "../common/SchemaSite";
+// import SchemaSite from "../common/SchemaSite";
 
 const Footer = () => {
   return (
@@ -68,7 +68,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <SchemaSite></SchemaSite>
+        {/* <SchemaSite></SchemaSite> */}
       </footer>
     </>
   );
