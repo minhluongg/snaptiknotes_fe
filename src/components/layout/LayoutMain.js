@@ -23,7 +23,7 @@ const LayoutMain = ({ children, customMeta, meta }) => {
       <Head>
         <meta charSet="UTF-8" />
         <meta name="google" content="notranslate" />
-        <meta name="robots" content="noindex, nofollow" />
+        <meta name="robots" content="index, follow" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta
           name="viewport"

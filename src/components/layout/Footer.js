@@ -16,6 +16,7 @@ const Footer = () => {
                 <li className="mb-4">
                   <Link
                     href={{ pathname: "/contact-us" }}
+                    locale="en"
                     className="hover:underline"
                   >
                     Contact Us
@@ -31,6 +32,7 @@ const Footer = () => {
                 <li className="mb-4">
                   <Link
                     href={{ pathname: "/privacy-policy" }}
+                    locale="en"
                     className="hover:underline"
                   >
                     Privacy Policy
@@ -39,6 +41,7 @@ const Footer = () => {
                 <li className="mb-4">
                   <Link
                     href={{ pathname: "/terms-of-service" }}
+                    locale="en"
                     className="hover:underline"
                   >
                     Terms of Service
